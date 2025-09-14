@@ -1,0 +1,986 @@
+--- Page 1 ---
+DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5
+
+РАМОЧНЫЙ ДОГОВОР № IC-45-2022
+От 1 Сентября 2022 г., Москва
+
+КОРЕКС ЛОДЖИСТИКС ЛИМИТЕД,
+юридическое лицо, зарегистрированное должным
+образом и действующее в соответствии с
+законодательством Республики Ирландия под
+регистрационным номером 540725, юридический
+адрес: Suite 40, The Guinness Enterprise Centre, Тауог$
+Lane, Dublin 8, Ireland (Ирландия, Дублин 8, Тейлорс
+Лейн, Центр Гиннесс Энтерпрайз, офис 40), в лице
+директора Андрея Тараканова, именуемое далее
+«ИСПОЛНИТЕЛЬ », с одной стороны,
+
+и
+ООО «KOPEKC®APM»,
+
+юридическое лицо, созданное в соответствии с
+законодательством Российской Федерации,
+юридический адрес которого: Россия, 142000,
+Московская область, г. Домодедово, ул. Логистическая
+(Северный Мкр.), дом 1/6, антр/пом 8.85/15, в лице
+Генерального директора Михайлова Евгения
+Игоревича, действующего на основании Устава,
+именуемое далее «ЗАКАЗЧИК», с другой стороны,
+
+(в дальнейшем именуемые совместно "Стороны", а
+по отдельности "Сторона")
+
+заключили настоящий Рамочный Договор о
+нижеследующем (далее по тексту — «Договор»):
+
+Термины, используемые в настоящем Договоре:
+СОР: Надлежащая Дистрибьюторская Практика;
+GSP: Надлежащая Практика Хранения;
+
+СМР: Надлежащая Производственная Практика;
+
+СОП: Стандартная Операционная Процедура;
+
+ЛП: лекарственные препараты, медицинские изделия и
+сопутствующие материалы, подлежащие
+приобретению или полученные ИСПОЛНИТЕЛЕМ для
+оказания услуг по настоящему Договору на территории
+России и иных стран и подлежащие передаче на склад
+по адресу: Россия, 142000, Московская область, г.о.
+Домодедово, г. Домодедово, микрорайон Северный, ул.
+Логистическая, д. 1/10, Производственно-
+логистический комплекс «Северное Домодедово»,
+корпус № 11 (далее по тексту — «Склад»), если иначе
+Стороны не определят в — соответствующих
+Приложениях к Договору.
+
+Приложение: документ, заключаемый Сторонами и
+содержащий точный и полный перечень оказываемых
+Услуг и совершаемых Агентских действий, который
+содержит также стоимость соответствующих Услуг, их
+количество (если применимо), размер Возмещаемых
+расходов и агентского вознаграждения
+ИСПОЛНИТЕЛЯ (при необходимости), наименование,
+ассортимент, количество поставляемых ЛП, их цену,
+общую стоимость, условия оплаты, условия поставки.
+Приложение может быть заключено Сторонами по
+форме, отличающейся от форм, приведенных в
+Приложениях к Договору, если оно содержит все
+
+COREX
+
+MASTER AGREEMENT No. IC-45-2022
+Dated September 01, 2022, Moscow
+
+COREX LOGISTICS LIMITED,
+a legal entity duly organised and operating under the laws
+of the Republic of Ireland under the registration number
+540725, having its registered address at Suite 40, The
+Guinness Enterprise Centre, Taylors Lane, Dublin 8,
+Ireland, represented by Director Andrey Tarakanov, further
+referred to as « CONTRACTOR», on the one side,
+
+and
+COREXPHARM LLC,
+
+a legal entity established pursuant to the laws of the
+
+Russian Federation, with its legal address at:
+Logisticheskaya str., 1/6, antr/pom 8.85/15, Severny
+microdistrict, Domodedovo, Moscow region, 142000,
+
+Russia, represented by its General Director Mikhailov
+Evgeny I., acting by virtue of the Charte, further referred to
+as «CLIENT», on the other side
+
+(hereinafter jointly referred to as the “Parties” and
+separately as the "Party")
+
+have signed the present Master Agreement on the
+following (hereinafter — “Agreement”’):
+
+Terms and definitions used in this Agreement:
+GDP: Good Distribution Practice
+
+GSP: Good Storage Practice
+
+GMP: Good Manufacturing Practice;
+
+SOP: Standard Operating Procedure;
+
+MP: Medicinal products, medical devices and related
+materials to be purchased or received by CONTRACTOR
+for the services provision hereunder in the territory of
+Russia and other countries and delivered to the depot
+having the address: 1/10 Logisticheskaya str., Severnoye
+Domodedovo, Production and Logistics Complex, building
+№ 11, Severny microdistrict, Domodedovo, Domodedovo
+city district, Moscow region, 142000, Russia (hereinafter
+referred to as the “Depot”), unless otherwise defined in
+appropriate Appendices to this Agreement.
+
+Appendix: document concluded by the Parties and
+containing the exact and complete list of Services to be
+rendered and Agency actions to be performed, the cost of
+the relevant Services, their quantity (if applicable), the
+amount of Reimbursable expenses and the agency fee of
+the CONTRACTOR (if necessary), the name, assortment,
+quantity of supplied MP, their price, total cost, payment
+terms, terms of supply. The Appendices may be concluded
+by the Parties in a form different from the form given in the
+Appendices to the Agreement if it contains all the
+necessary conditions for the provision of Services and/or
+the performance of Agency actions, or supply.
+
+Page 1 of 14
+
+
+--- Page 2 ---
+DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5
+
+необходимые условия оказания услуг и/или
+
+совершения агентских действий, или поставки.
+
+ПРЕАМБУЛА
+
+Настоящий Договор является смешанной формой
+договора, как он понимается согласно статье 421
+Гражданского Кодекса Российской — Федерации.
+Стороны выделяют в этом Договоре элементы
+договора возмездного оказания услуг, агентского
+договора, договора поставки. Наименования Сторон не
+влияют на суть их взаимоотношений и обозначены
+исключительно для удобства.
+
+1. ПРЕДМЕТ ДОГОВОРА
+
+1.1. ИСПОЛНИТЕЛЬ обязуется совершить
+действия (далее — «Услуги»), связанные с логистикой
+ЛП и других материалов клинических исследований, в
+том числе:
+
+получение разрешения на ввоз ЛП;
+получение разрешения на вывоз ЛП;
+хранение ЛП и иных материалов исследования;
+
+сопровождение таможенного оформления (при ввозе и
+вывозе) ЛП, документов, лабораторных наборов и иных
+материалов исследования;
+
+организация уничтожения ЛП и иных материалов
+исследования,
+
+маркировка/перемаркировка исследуемого препарата;
+
+Осуществление (организация) транспортировки ЛП и
+обеспечение во время перевозки на Склад
+надлежащих условий хранения, указанных КЛИЕНТОМ
+и соответствующих требованиям GSP и GDP
+(ЗАКАЗЧИК гарантирует полномочия лиц, указанных им
+в качестве грузополучателя, на прием грузов и
+подписание любых передаточных документов от имени
+соответствующих исследовательских центров/иных
+грузополучателей; таким образом, повторная проверка
+полномочий таких лиц со стороны ИСПОЛНИТЕЛЯ не
+требуется), а также иных согласованных Сторонами
+действий;
+
+иные Услуги по указанию ЗАКАЗЧИКА;
+
+а ЗАКАЗЧИК обязуется принять и оплатить указанные
+Услуги.
+
+Точный и полный перечень оказываемых Услуг,
+стоимость услуг указывается в соответствующих
+приложениях к настоящему Договору, которые
+содержат также стоимость соответствующих Услуг, их
+количество (если применимо), размер расходов и
+действия третьих лиц (при необходимости).
+
+ИСПОЛНИТЕЛЬ обязуется приложить усилия, для
+оказания Услуг, согласованных в соответствующих
+приложениях к настоящему Договору в соответствии с:
+
+- условиями настоящего Договора;
+
+- всеми применимыми законами и правилами.
+
+1.2. За вознаграждение ИСПОЛНИТЕЛЬ обязуется
+совершить по поручению и за счёт ЗАКАЗЧИКА, но от
+своего собственного имени указанные ниже действия:
+
+закупок ЛП,
+клинических
+
+(а) Осуществление
+предназначенных для
+
+(организация)
+проведения
+
+PREAMBLE
+
+This Agreement is a mixed form of the agreement within the
+meaning of article 421 of the Civil Code of the Russian
+Federation. The parties shall underline the elements of the
+paid services agreement, agency agreement and supply
+Agreement herein. Names of the Parties shall not affect the
+essence of their relations, and they are incorporated herein
+only for convenience purposes.
+
+1. SUBJECT OF THE AGREEMENT
+
+1.1. CONTRACTOR undertakes to perform actions
+(hereinafter — “Services”) related to logistics of MP and
+other clinical trial materials, including but not limited to:
+
+obtaining approval for MP importation;
+obtaining approval for MP exportation;
+storage of MP and other clinical trial materials;
+
+assisting in customs clearance (during importation and
+exportation) of MP, documents, laboratory kits and other
+Clinical trial materials;
+
+organization of destruction of the MP and other clinical trial
+materials;
+
+labelling/re-labeling of MP;
+
+Organizing transportation of MP, ensuring during
+transportation to the Depot appropriate storage conditions
+indicated by CLIENT and compliant with GSP and GDP (the
+CLIENT guarantees the authority of the persons indicated
+by it as a consignee to receive cargo and sign any transfer
+documents on behalf of the relevant clinical trial sites/ other
+consignees; thus, verification of the authority of such
+persons by the CONTRACTOR is not required) guidelines
+and other actions agreed between the Parties;
+
+other Services as ordered by the CLIENT;
+
+and CLIENT undertakes to accept and pay for such
+Services.
+
+The exact and exhaustive list of Services provided, cost of
+services is contained in appropriate appendices to this
+Agreement, which also contain cost of appropriate
+Services, their number (if applicable), amount of related
+expenses and actions of third parties (if required).
+
+CONTRACTOR agrees to devote its best efforts, as
+directed by CLIENT, to provide the Services set forth in
+corresponding appendices to the present Agreement in
+accordance with:
+
+- the terms and conditions of this Agreement;
+
+- all applicable laws, rules and regulations.
+
+1.2. For remuneration CONTRACTOR undertakes to
+perform on the instruction of CLIENT and at his expense,
+but in his own name actions described below:
+
+(a) Organizing purchasing of MP intended for performance
+of clinical trials, analytical tests, purchasing on the basis of
+
+Page 2 of 14
+
+
+--- Page 3 ---
+DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5
+
+исследований, аналитических тестирований, закупок
+ЛП по жизненным показаниям для конкретных
+пациентов, а также для иных целей, которые будут
+дополнительно согласованы Сторонами в приложениях
+к настоящему Договору. В результате закупки ЛП
+переходят в собственность ЗАКАЗЧИКА.
+
+(5) Иные действия, согласованные Сторонами в
+приложениях к настоящему Договору.
+
+ИСПОЛНИТЕЛЬ на основании указаний ЗАКАЗЧИКА,
+согласованных Сторонами в — соответствующих
+приложениях к настоящему Договору и являющихся его
+неотъемлемой частью (далее — «Приложения»),
+обязуется приложить усилия, для выполнения задач,
+установленных настоящим Договором в соответствии
+с:
+
+- условиями настоящего Договора;
+- всеми применимыми законами и правилами.
+
+Форма приложения на Услуги и Агентские действия
+приведена в Приложении А кнастоящему Договору.
+
+1.3. Стороны договорились, что в рамках настоящего
+Договора ИСПОЛНИТЕЛЬ поставляет ЗАКАЗЧИКУ ЛП
+в соответствии с подписываемыми сторонами
+приложениями, а ЗАКАЗЧИК обязуется оплатить
+надлежащим образом поставленные и принятые ЛП на
+условия настоящего Договора. Форма приложения
+приведена в Приложении В кнастоящему Договору.
+
+2. ЦЕНА ДОГОВОРА. ВАЛЮТА ДОГОВОРА
+
+2.1. Цена Договора складывается из стоимости всех
+приложений, спецификаций, выставленных счетов к
+настоящему Договору.
+
+2.2. Валюта договора — ЕВРО.
+
+2.3. Стоимость услуг может быть установлена
+сторонами в ЕВРО, долларах США или российских
+рублях в соответствии с подписываемыми сторонами
+Приложениями к Договору. Если приложение
+составлено в долларах США, то его стоимость
+оценивается в Евро по курсу Банка России на дату
+составления соответствующего приложения. Если
+Возмещаемые расходы понесены в валюте, отличной
+от Евро, то они оцениваются в Евро по курсу Банка
+России на дату составления Отчета Агента.
+
+Валютой платежа могут быть Евро и доллар США.
+Уплаченная в долларах США сумма оценивается в
+Евро по курсу Банка России на дату составления
+соответствующего приложения.
+
+2.4. Оплата услуг, вознаграждения и дополнительной
+
+выгоды ИСПОЛНИТЕЛЯ, стоимости ЛП, товара и
+стоимости действий, осуществляемых третьими
+лицами, осуществляется в валюте, в которой
+
+установлена стоимость услуг по соответствующему
+приложению.
+
+3. ПОРЯДОК РАСЧЕТОВ. УСЛУГИ
+
+3.1. Согласованная Сторонами цена и стоимость
+соответствующих Услуг включает все и любые
+расходы, которые ИСПОЛНИТЕЛЬ понесет в связи с
+исполнением его обязательств по настоящему
+Договору.
+
+life-saving medical conditions for specified patients, as well
+as for the other purposes which will be additionally agreed
+by the Parties in the appendices hereto. Upon purchase MP
+will be become property of CLIENT.
+
+(b) Other actions as agreed by the Parties in the
+appendices hereto.
+
+CONTRACTOR agrees to devote its best efforts, as
+directed by CLIENT and agreed by the Parties in the
+corresponding appendices hereto being an integral part of
+this Agreement (hereinafter — the Appendices), to perform
+the tasks set forth in this Agreement in accordance with:
+
+- the terms and conditions of this Agreement;
+- all applicable laws, rules and regulations.
+
+The form of the appendix for Services and Agency actions
+is given in Appendix A to this Agreement.
+
+1.3. The parties agreed that within the framework of this
+Agreement CONTRACTOR can supply MP in accordance
+with corresponding appendices, and the CLIENT
+undertakes to pay for the duly delivered and accepted MP
+on the terms of this. The form of the appendix is given in
+Appendix B to this Agreement.
+
+2. AGREEMENT PRICE. AGREEMENT CURRENCY
+
+2.1. The Agreement price is comprised of the amount of all
+appendices, specifications and invoices to this Agreement.
+
+2.2. Currency of the Agreement — EURO.
+
+2.3. The cost of services can be set by the parties in EURO,
+USD and RUR, in accordance with the appendices to the
+Agreement signed by the parties. If the Appendix is made
+in USD, then their cost is estimated in Euros at the
+exchange rate of the Bank of Russia on the date of drawing
+up the corresponding Appendix. If the Reimbursable
+expenses are incurred in a currency other than Euros, they
+are estimated in Euros at the exchange rate of the Bank of
+Russia as of the date of the Agent's Report.
+
+The payment currency can be Euro and USD. The amount
+paid in USD is estimated in Euros at the exchange rate of
+the Bank of Russia as of the date of drawing up the
+corresponding Appendix.
+
+2.4. Payment for services, remuneration and additional
+benefits of the CONTRACTOR, the cost of MP, goods and
+the cost of actions carried out by third parties is carried out
+in the currency in which the cost of services is established
+for the corresponding appendices.
+
+3. TERMS OF PAYMENT. SERVICES
+
+3.1. The price and sum agreed by the Parties for the
+respective Services shall include each and all the expenses
+which CONTRACTOR will bear within the performing of its
+obligations provided herein.
+
+Page 3 of 14
+
+
+--- Page 4 ---
+DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5
+
+3.2. ИСПОЛНИТЕЛЬ оформляет Инвойс в течение 10
+(Десяти) рабочих дней с даты окончания каждого
+соответствующего календарного месяца.
+
+3.3. При отказе ЗАКАЗЧИКА от приемки оказанных
+Услуг Стороны в течение 10 (десяти) рабочих дней с
+момента получения ЗАКАЗЧИКОМ счета
+согласовывают перечень необходимых доработок и
+сроки их выполнения.
+
+3.4. При отсутствии возражений по результатам
+оказанных услуг, в течение 10 (пяти) рабочих дней с
+
+момента получения ЗАКАЗЧИКОМ счета, Услуги
+считаются принятыми ЗАКАЗЧИКОМ.
+3.5. Выплата стоимости Услуг ИСПОЛНИТЕЛЯ
+
+производится ЗАКАЗЧИКОМ в ЕВРО, в долларах США
+ежемесячно на основании выставленных
+ИСПОЛНИТЕЛЕМ счетов (в том числе путём
+направления их на электронную почту контактному
+лицу ИСПОЛНИТЕЛЯ) в течение 180 (Сто
+восьмидесяти) банковских дней с момента
+выставления счета, если иное не согласовано
+Сторонами в Приложениях к настоящему Договору.
+Днём оплаты считается день поступления денежных
+средств на счёт ИСПОЛНИТЕЛЯ.
+
+4. ПОРЯДОК РАСЧЕТОВ. АГЕНТСКИЕ ДЕЙСТВИЯ
+
+4.1. Стоимость ЛП и стоимость услуг, осуществляемых
+третьими лицами, таможенные пошлины, налоги и
+сборы, а также иные таможенные платежи (включая
+временное хранение) относятся к Возмещаемым
+расходам ИСПОЛНИТЕЛЯ (далее по тексту —
+«Возмещаемые расходы») в рамках осуществления
+им агентских действий (денежные — средства,
+поступающие ИСПОЛНИТЕЛЮ в счет авансирования
+Возмещаемых расходов ИСПОЛНИТЕЛЯ, не могут
+быть использованы на иные цели и не являются
+доходом Исполнителя).
+
+4.2. Выплата агентского вознаграждения и
+Возмещаемых расходов ИСПОЛНИТЕЛЯ,
+производится ЗАКАЗЧИКОМ B валюте
+
+соответствующего Приложения авансовым платежом
+на основании выставленных ИСПОЛНИТЕЛЕМ счетов
+(в том числе путем направления их на электронную
+почту) в течение 180 (Сто восьмидесяти) банковских
+дней со дня выставления каждого соответствующего
+счета ИСПОЛНИТЕЛЕМ, если иное не согласовано
+Сторонами в Приложениях к настоящему Договору.
+Днем оплаты считается день поступления денежных
+средств на счёт ИСПОЛНИТЕЛЯ.
+
+4.3. ЛП подлежат приобретению по ценам не выше,
+определённых в Приложениях к Договору. В случае
+осуществления закупки ЛП на более выгодных
+условиях, дополнительная выгода, как она определена
+в ст. 992 Гражданского кодекса Российской Федерации,
+в полном объёме причитается ИСПОЛНИТЕЛЮ.
+
+4.4. По окончании выполнения всех обязательств,
+вытекающих из каждого Приложения к настоящему
+
+Договору, ИСПОЛНИТЕЛЬ подписывает Инвойс, в
+который включаются осуществленные
+ИСПОЛНИТЕЛЕМ действия и понесенные
+
+ИСПОЛНИТЕЛЕМ расходы.
+
+5. ПОРЯДОК РАСЧЕТОВ. ПОСТАВКА
+
+3.2. The CONTRACTOR draws up and signs the Invoice
+within 10 (Ten) working days from the date of the end of
+each respective calendar month.
+
+3.3. Should the CLIENT refuse to accept the Services
+rendered, the Parties within 10 (ten) working days from the
+moment the CLIENT receives the invoice, coordinate the
+list of necessary improvements and the timing of their
+implementation.
+
+3.4. If there are no objections to the results of the services
+rendered, within 10 (five) working days from the date of
+receipt by the CLIENT of the invoice, the Services are
+considered to be accepted by the CLIENT.
+
+3.5. Cost of the CONTRACTOR’s Services is to be paid by
+CLIENT in EURO, USD-~ monthly’  Базея on
+CONTRACTOR’s invoices (which can also be provided by
+e-mail to CONTRACTOR’s contact person) within 180
+bank days upon issue of the invoice, if otherwise agreed
+by the Parties in the Appendices to the present Agreement.
+The day of the payment is defined as the day when the
+funds are received on CONTRACTOR’s account.
+
+4. TERMS OF PAYMENT. AGENCY ACTIONS
+
+4.1. Cost of MP and cost of services of third parties,
+customs duties, taxes and fees, as well as other customs
+payments (including temporary storage) belong to
+Reimbursable expenses of CONTRACTOR (hereinafter
+referred to as “Reimbursable expenses”) under the
+fulfillment of its agent activities hereby (amounts remitted to
+CONTRACTOR in advance of the Reimbursable expenses
+of the CONTRACTOR, cannot be used for other purposes
+and are not the income of the CONTRACTOR).
+
+4.2. СОМТВАСТОНР’$ agent fee and Reimbursable
+expenses are to be paid by CLIENT in the currency of the
+relevant Appendix in advance based on CONTRACTOR’s
+invoices (which can also be provided by e-mail) within 180
+banking days from the date of issue of each corresponding
+invoice by CONTRACTOR if otherwise agreed by the
+Parties in the Appendices to the present Agreement. The
+day of the payment is defined as the day when the funds
+are received on CONTRACTOR’s account.
+
+4.3. The MP are to be purchased at the prices not
+exceeding the amounts specified in Appendices to the
+Agreement. If the MP are purchased at a lower price the
+additional benefit (as it defined in the Cl. 992 of the Civil
+Code of Russian Federation) is due to CONTRACTOR.
+
+4.4. Upon completion of all obligations under each
+Appendix to this this Agreement, CONTRACTOR signs
+the Invoice, which should include actions performed and
+expenses incurred by CONTRACTOR.
+
+5. TERMS OF PAYMENT. SUPPLY
+
+Page 4 of 14
+
+
+--- Page 5 ---
+DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5
+
+5.1. Стоимость ЛП и условия поставки указывается в
+соответствующих —Приложениях к настоящему
+Договору.
+
+5.2. Если иное прямо не установлено соответствующим
+Приложением K настоящему — Договору, Jan
+оплачиваются ЗАКАЗЧИКОМ в порядке 100%
+предоплаты в течение 180 банковских дней с даты
+получения ЗАКАЗЧИКОМ соответствующего счета.
+Днём оплаты считается день поступления денежных
+средств на счёт ИСПОЛНИТЕЛЯ.
+
+5.3. По окончании выполнения обязательств поставки,
+вытекающих из каждого Приложения к настоящему
+Договору, ИСПОЛНИТЕЛЬ предоставляет ЗАКАЗЧИКУ
+Инвойс с приложением пакета дополнительных
+применимых документов, включая, но, не
+ограничиваясь ими: счет, сертификат соответствия,
+сертификаты анализов, протокол согласования цен на
+поставки ЛП, включенных в перечень жизненно
+необходимых и важнейших лекарственных препаратов,
+составленный между ИСПОЛНИТЕЛЕМ и третьими
+лицами ит.д.
+
+6. ПРОЧИЕ ФИНАНСОВЫЕ УСЛОВИЯ
+
+6.1. Стороны соглашаются, что все комиссии,
+взимаемые при перечислении денег на счёт
+ИСПОЛНИТЕЛЯ, уплачиваются ЗАКАЗЧИКОМ.
+
+7. ПРИВЛЕЧЕНИЕ ТРЕТЬИХ ЛИЦ.
+ОТВЕТСТВЕННОСТЬ СТОРОН
+
+7.1. ИСПОЛНИТЕЛЬ имеет право привлекать третьих
+лиц для выполнения обязательств в соответствии с
+настоящим Договором, при этом ответственность за
+качество и сроки осуществления соответствующих
+действий возлагается на ИСПОЛНИТЕЛЯ.
+
+7.2. За нарушение условий настоящего Договора
+Стороны несут ответственность в соответствии с
+действующим законодательством Российской
+Федерации. Убытки полежат возмещению в размере
+реального ущерба.
+
+7.3. В случае неисполнения либо ненадлежащего
+исполнения ЗАКАЗЧИКОМ обязательств по оплате
+ЗАКАЗЧИК обязан уплатить ИСПОЛНИТЕЛЮ по его
+требованию неустойку в размере 0,1 % от
+неуплаченной суммы за каждый день просрочки.
+
+7.4. Выплата неустойки не лишает Сторону,
+пострадавшую от нарушения настоящего Договора,
+права требовать возмещения убытков в части, не
+покрытой неустойкой.
+
+8. ФОРС-МАЖОР
+
+8.1. Стороны освобождаются от исполнения своих
+обязательств по настоящему Договору, если их
+исполнение задерживается или затрудняется каким-
+либо событием, находящимся вне пределов разумного
+контроля такой Стороны, включая, но не ограничиваясь
+этим, стихийные бедствия, пожар, взрыв,
+неблагоприятные погодные условия, болезни, войны,
+восстания, гражданские беспорядки, бунты, действия
+правительства или отключение электроэнергии, при
+условии, что такое невыполнение должно быть
+освобождено от ответственности только в пределах и
+на время действия вышеперечисленных условий.
+
+5.1. The cost of MPs and supply conditions shall be
+specified in a corresponding Appendix to this Agreement.
+
+5.2. Unless otherwise expressly agreed by the Parties in
+the respective Appendix hereto, CLIENT shall effect 100%
+prepay for MPs in advance within 180 banking days from
+the date of receipt of the corresponding invoice by CLIENT.
+The day of the payment is defined as the day when the
+funds are received on CONTRACTOR’s account.
+
+5.3. Upon completion of supply obligations under each
+Appendix to this this Agreement, CONTRACTOR provides
+to the CLIENT Invoice with a package of additional
+applicable documents, including, but not limited to: invoice,
+certificate of conformity, certificate of analysis, price
+negotiation memorandum (for VED medicines) signed by
+CONTRACTOR and third parties according hereby.
+
+6. OTHER FINANCIAL CONDITIONS
+
+6.1. The Parties hereby agree that all commissions,
+incurred during transfer of funds to the account of
+CONTRACTOR shall be borne by CLIENT.
+
+7. INVOLVEMENT OF THIRD PARTIES.
+RESPONSIBILITIES OF THE PARTIES
+
+7/1. CONTRACTOR has the right to use third parties in
+order to perform the obligations of work under this
+Agreement. In such cases CONTRACTOR is fully
+responsible for the quality and the timelines of appropriate
+actions.
+
+7.2. Violation of any provisions of this Agreement shall
+entail the Parties being liable under the laws of the Russian
+Federation. Direct damages are subject to reimbursement.
+
+7.3. In case of non-execution or improper execution by
+CLIENT of payment obligations according to this
+Agreement, CLIENT is to pay to CONTRACTOR at
+CONTRACTOR’s request a penalty in the amount of 0.1%
+of the delayed sum for each day of delay.
+
+7.4. Payment of the penalty shall not limit the Parties’ ability
+to claim compensation of damages sustained in the amount
+which has not been covered by the respective penalty.
+
+8. FORCE MAJEURE
+
+8.1. The Parties shall be excused from performing their
+obligations under this Agreement if its performance is
+delayed or prevented by any event beyond such Party’s
+reasonable control, including, but not limited to, acts of
+God, fire, explosion, weather, disease, war, insurrection,
+civil strife, riots, government action, or power failure,
+provided that such performance shall be excused only to
+the extent of and during such disability.
+
+Page 5 of 14
+
+
+--- Page 6 ---
+DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5
+
+8.2. Сторона, для которой исполнение обязательств
+стало невозможным, должна немедленно в письменной
+
+форме уведомить другую Сторону о начале,
+ожидаемой  продолжительности и прекращении
+действия указанных обстоятельств, в противном
+случае такие обстоятельства считаются
+несуществующими.
+
+8.3. Если форс-мажорные обстоятельства остаются в
+силе в течение периода, превышающего 2 (два) месяца
+подряд, и существует вероятность того, что они не
+прекратятся, то действие настоящего Соглашения
+может быть прекращено одной из Сторон путем
+уведомления другой Стороны.
+
+8.4. Во избежание сомнений — форс-мажорные
+обстоятельства не должны препятствовать Заказчику
+выполнять свои платежные обязательства по
+настоящему Договору.
+
+9. РАЗРЕШЕНИЕ СПОРОВ И ПРИМЕНИМОЕ ПРАВО
+
+9.1. Настоящий Договор
+Российской Федерации.
+
+регулируется правом
+
+9.2. Все споры по настоящему Договору разрешаются
+путём переговоров, с обязательным соблюдением
+претензионного порядка урегулирования споров.
+
+9.3. При недостижении согласия путём переговоров в
+
+течение 30 (Тридцати) календарных дней, споры
+решаются в Арбитражном суде г. Москвы в
+соответствии с действующим законодательством
+
+Российской Федерации.
+
+10. СРОК ДЕЙСТВИЯ ДОГОВОРА
+
+10.1. Договор действует с даты, указанной на
+титульной странице, до 31 декабря 2023 г.
+
+10.2. Досрочно Договор может быть расторгнут в
+следующих случаях:
+
+- Любая из Сторон имеет право расторгнуть настоящий
+Договор, уведомив другую Сторону не менее чем за 30
+(тридцать) календарных дней.
+
+- Любая Сторона имеет право расторгнуть Договор в
+случае нарушения условий Договора второй Стороной
+а) на основании письменного уведомления о
+состоявшемся нарушении Договора, если нарушение
+невозможно исправить, или 6) по истечении 30 рабочих
+дней после получения уведомления о состоявшемся
+нарушении Договора, если нарушение могло быть
+исправлено, но не было исправлено.
+
+- По решению компетентных органов в соответствии с
+действующим законодательством РФ.
+
+10.3. В случае досрочного расторжения настоящего
+Договора ЗАКАЗЧИК выплачивает ИСПОЛНИТЕЛЮ
+стоимость всех неоплаченных фактически
+осуществленных ИСПОЛНИТЕЛЕМ действий,
+понесенных расходов и стоимость осуществлённых
+третьими лицами действий в соответствии со всеми
+приложениями к данному Договору.
+
+10.4. Если за 30 (тридцать) дней до истечения срока
+действия настоящего Договора Стороны не сообщили
+письменно о его прекращении, то он считается
+продленным на год на тех же условиях. В порядке,
+
+8.2. The Party for which the performance of obligations has
+become impossible is to notify immediately the other Party
+in written about the beginning, expected duration and
+cessation of the underlying circumstances, otherwise such
+circumstances are considered to be non-existent.
+
+8.3. Should the force majeure circumstances remain in
+force for a period exceeding 2 (two) successive months and
+should not be likely to cease to act, this Agreement may be
+terminated by either Party by means of notifying the other
+Party.
+
+8.4. For the avoidance of doubt, a force majeure event
+shall not prevent the Client from performing its payment
+obligations under this Agreement.
+
+9. RESOLUTION OF CONFLICTS AND APPLICABLE
+LAW
+
+9.1. This agreement is subject to the laws of the Russian
+Federation.
+
+9.2. All disputes proceeding from this Agreement shall be
+settled by means of negotiations, under observation of pre-
+court dispute settlement procedure
+
+9.3. Should the parties fail to reach an agreement within 30
+(Thirty) calendar days the disputes will then be forwarded
+to the Arbitration (Arbitraj) court of Moscow as per the
+current legislation of the Russian Federation.
+
+10. TERM OF THE AGREEMENT
+
+10.1. The Agreement is valid from the date indicated on the
+title page to December 31%, 2023.
+
+10.2. This Agreement may be terminated prematurely in the
+following cases:
+
+- Either Party may terminate this Agreement upon at least
+thirty (30) calendar days written notice to the other Party.
+
+- Either party may terminate this Agreement in the event of
+another Party’s breach of any term of this Agreement (a)
+upon receipt of written notice of the breach if the breach is
+incapable of cure, or (b) upon the expiration of thirty (30)
+calendar days after receipt of notice of the breach if the
+breach is capable of cure and has not been cured.
+
+- Upon decision of competent authorities as per the current
+legislation of the Russian Federation.
+
+10.3. Upon early termination of this Agreement, CLIENT
+shall pay CONTRACTOR the cost of all actually performed
+and not yet paid actions, incurred expenses and cost of
+actions performed by third parties according to all
+appendices to this Agreement.
+
+10.4. If thirty (30) days prior to the expiration of the term of
+this Agreement the Parties did not inform in writing about
+its termination, it is deemed to be extended for one year on
+the same terms. In accordance with this paragraph the
+validity of the Agreement may be consistently prolonged.
+
+Page 6 of 14
+
+
+--- Page 7 ---
+DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5
+
+установленном настоящим пунктом,
+продлеваться неоднократно.
+
+Договор может
+
+10.5. Прекращение настоящего Договора по каким бы
+то ни было обстоятельствам не прекращает
+обязательств Сторон принятых, но не исполненных ими
+на дату расторжения Договора.
+
+11. ПРОВЕРКИ
+
+11.1. Каждая из Сторон обязуется немедленно
+уведомить другую Сторону о любой регуляторной
+проверке, относящейся к исполнению Договора.
+Каждая Сторона имеет право присутствовать при таких
+проверках, если возможно.
+
+12. КОНФИДЕНЦИАЛЬНОСТЬ
+
+12.1. Каждая из Сторон признает, что в связи с
+исполнением обязательств по Договору, она может
+
+получить, узнать или иметь доступ K
+конфиденциальной информации, интеллектуальной
+собственности или коммерческой тайне другой
+
+Стороны либо аффилированных с ней структур или
+третьих лиц, по отношении к которым у этой Стороны
+
+существуют обязательства по соблюдению
+конфиденциальности («Конфиденциальная
+информация»).
+
+12.2. Стороны обязуются хранить в строгой
+
+конфиденциальности и не использовать для иных
+целей, кроме исполнения настоящего Договора, всю
+переданную друг другу в рамках Договора
+информацию. Конфиденциальная информация не
+включает в себя следующую информацию, которая:
+
+- является достоянием общественности или стала
+известной широкой общественности не по вине
+получающей стороны;
+
+- раскрыта получающей стороне третьей стороной,
+которая при этом не была получена третьей стороной
+прямо или косвенно от раскрывающей стороны под
+условием соблюдения конфиденциальности;
+
+- которая уже была известна получающей стороне, что
+подтверждается письменными документами;
+
+- которая по закону должна быть раскрыта.
+
+12.3. Обязательство по конфиденциальности,
+предусмотренное настоящим Пунктом, продолжает
+действовать в течение 5 (пяти) лет после окончания
+срока действия Договора или его преждевременного
+расторжения.
+
+13. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ
+
+13.1. Все Приложения и Дополнения к настоящему
+Договору будут иметь юридическую силу, если они
+
+подписаны надлежаще уполномоченными
+представителями сторон.
+
+13.2. Настоящий Договор составлен в двух
+экземплярах на русском и английском языках, оба
+
+экземпляра имеют одинаковую силу (один экземпляр
+для каждой Стороны).
+
+10.5. Termination of this Agreement shall not anyhow
+terminate obligations of the Parties which have been
+already undertaken and not executed to the termination
+date.
+
+11. INSPECTIONS
+
+11.1. Either Party shall promptly notify the other Party of
+any applicable regulatory inspection relating to the
+Agreement. Either Party shall have the right to be present
+at any such inspection, if possible.
+
+12. CONFIDENTIALITY
+
+12.1. Either Party acknowledges that in connection with the
+performance of the Agreement, it may receive, learn or
+have access to confidential, trade secret, or proprietary
+information concerning the other Party, the other Party’s
+affiliates or third parties towards whom the other Party has
+an obligation of confidentiality (“Confidential Information’).
+
+12.2. Both Parties undertake to keep strictly confidential
+and not use for any purpose other than performance of the
+Agreement any information transmitted to each other as
+part of this Agreement. For purposes hereof, Confidential
+Information shall not include information that:
+
+- is or becomes generally known or available to the public
+through no fault of the receiving party;
+
+- is disclosed to the receiving party by a third party, provided
+such information was not obtained by such third party,
+directly or indirectly, from the disclosing party on a
+confidential basis;
+
+- is already known to receiving party as shown by its prior
+written records;
+
+- is required by law to be disclosed.
+
+12.3. Confidentiality clause described herein should be
+enforced for 5 (five) year after expiration or termination of
+this Agreement.
+
+13. FINAL PROVISIONS
+
+13.1. All Appendices and Addenda to this Agreement shall
+have legal force if signed by the authorised representatives
+of the Parties.
+
+13.2. The Agreement has been drafted in two copies in the
+Russian and English languages, both copies being equally
+valid, one for either Party.
+
+Page 7 of 14

@@ -1,0 +1,2270 @@
+[
+  {
+    "bbox": [
+      43,
+      24,
+      743,
+      55
+    ],
+    "category": "Page-header",
+    "text": "DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5"
+  },
+  {
+    "bbox": [
+      136,
+      113,
+      223,
+      199
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1205,
+      113,
+      1558,
+      199
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      323,
+      229,
+      779,
+      264
+    ],
+    "category": "Title",
+    "text": "РАМОЧНЫЙ ДОГОВОР № IC-45-2022"
+  },
+  {
+    "bbox": [
+      362,
+      278,
+      740,
+      310
+    ],
+    "category": "Text",
+    "text": "От 1 Сентября 2022 г., Москва"
+  },
+  {
+    "bbox": [
+      1002,
+      233,
+      1458,
+      264
+    ],
+    "category": "Title",
+    "text": "MASTER AGREEMENT No. IC-45-2022"
+  },
+  {
+    "bbox": [
+      1016,
+      278,
+      1444,
+      310
+    ],
+    "category": "Text",
+    "text": "Dated September 01, 2022, Moscow"
+  },
+  {
+    "bbox": [
+      335,
+      360,
+      765,
+      392
+    ],
+    "category": "Section-header",
+    "text": "КОРЕКС ЛОДЖИСТИКС ЛИМИТЕД,"
+  },
+  {
+    "bbox": [
+      223,
+      400,
+      879,
+      706
+    ],
+    "category": "Text",
+    "text": "юридическое лицо, зарегистрированное должным образом и действующее в соответствии с законодательством Республики Ирландия под регистрационным номером 540725, юридический адрес: Suite 40, The Guinness Enterprise Centre, Taylor's Lane, Dublin 8, Ireland (Ирландия, Дублин 8, Тейлорс Лейн, Центр Гиннесс Энтерпрайз, офис 40), в лице директора Андрея Тараканова, именуемое далее «ИСПОЛНИТЕЛЬ», с одной стороны,"
+  },
+  {
+    "bbox": [
+      540,
+      722,
+      558,
+      744
+    ],
+    "category": "Text",
+    "text": "и"
+  },
+  {
+    "bbox": [
+      409,
+      762,
+      691,
+      793
+    ],
+    "category": "Section-header",
+    "text": "ООО «КОРЕКСФАРМ»,"
+  },
+  {
+    "bbox": [
+      223,
+      810,
+      879,
+      1042
+    ],
+    "category": "Text",
+    "text": "юридическое лицо, созданное в соответствии с законодательством Российской Федерации, юридический адрес которого: Россия, 142000, Московская область, г. Домодедово, ул. Логистическая (Северный Мкр.), дом 1/6, антр/пом 8.85/15, в лице Генерального директора Михайлова Евгения Игоревича, действующего на основании Устава, именуемое далее «ЗАКАЗЧИК», с другой стороны,"
+  },
+  {
+    "bbox": [
+      223,
+      1056,
+      851,
+      1115
+    ],
+    "category": "Text",
+    "text": "(в дальнейшем именуемые совместно \"Стороны\", а по отдельности \"Сторона\")"
+  },
+  {
+    "bbox": [
+      223,
+      1129,
+      794,
+      1191
+    ],
+    "category": "Text",
+    "text": "заключили настоящий Рамочный Договор о\nнижеследующем (далее по тексту – «Договор»):"
+  },
+  {
+    "bbox": [
+      223,
+      1241,
+      843,
+      1271
+    ],
+    "category": "Section-header",
+    "text": "Термины, используемые в настоящем Договоре:"
+  },
+  {
+    "bbox": [
+      223,
+      1285,
+      800,
+      1317
+    ],
+    "category": "Text",
+    "text": "GDP: Надлежащая Дистрибьюторская Практика;"
+  },
+  {
+    "bbox": [
+      223,
+      1331,
+      691,
+      1363
+    ],
+    "category": "Text",
+    "text": "GSP: Надлежащая Практика Хранения;"
+  },
+  {
+    "bbox": [
+      223,
+      1377,
+      800,
+      1409
+    ],
+    "category": "Text",
+    "text": "GMP: Надлежащая Производственная Практика;"
+  },
+  {
+    "bbox": [
+      223,
+      1423,
+      772,
+      1453
+    ],
+    "category": "Text",
+    "text": "СОП: Стандартная Операционная Процедура;"
+  },
+  {
+    "bbox": [
+      223,
+      1460,
+      879,
+      1808
+    ],
+    "category": "Text",
+    "text": "ЛП: лекарственные препараты, медицинские изделия и сопутствующие материалы, подлежащие приобретению или полученные ИСПОЛНИТЕЛЕМ для оказания услуг по настоящему Договору на территории России и иных стран и подлежащие передаче на склад по адресу: Россия, 142000, Московская область, г.о. Домодедово, г. Домодедово, микрорайон Северный, ул. Логистическая, д. 1/10, Производственно-логистический комплекс «Северное Домодедово», корпус № 11 (далее по тексту – «Склад»), если иначе Стороны не определят в соответствующих Приложениях к Договору."
+  },
+  {
+    "bbox": [
+      223,
+      1832,
+      879,
+      2181
+    ],
+    "category": "Text",
+    "text": "Приложение: документ, заключаемый Сторонами и\nсодержащий точный и полный перечень оказываемых\nУслуг и совершаемых Агентских действий, который\nсодержит также стоимость соответствующих Услуг, их\nколичество (если применимо), размер Возмещаемых\nрасходов и агентского вознаграждения\nИСПОЛНИТЕЛЯ (при необходимости), наименование,\nассортимент, количество поставляемых ЛП, их цену,\nобщую стоимость, условия оплаты, условия поставки.\nПриложение может быть заключено Сторонами по\nформе, отличающейся от форм, приведенных в\nПриложениях к Договору, если оно содержит все"
+  },
+  {
+    "bbox": [
+      1055,
+      360,
+      1404,
+      392
+    ],
+    "category": "Section-header",
+    "text": "COREX LOGISTICS LIMITED,"
+  },
+  {
+    "bbox": [
+      903,
+      400,
+      1558,
+      601
+    ],
+    "category": "Text",
+    "text": "a legal entity duly organised and operating under the laws\nof the Republic of Ireland under the registration number\n540725, having its registered address at Suite 40, The\nGuinness Enterprise Centre, Taylor's Lane, Dublin 8,\nIreland, represented by Director Andrey Tarakanov, further\nreferred to as « CONTRACTOR », on the one side,"
+  },
+  {
+    "bbox": [
+      1207,
+      719,
+      1252,
+      745
+    ],
+    "category": "Text",
+    "text": "and"
+  },
+  {
+    "bbox": [
+      1106,
+      762,
+      1353,
+      793
+    ],
+    "category": "Section-header",
+    "text": "COREXPHARM LLC,"
+  },
+  {
+    "bbox": [
+      903,
+      810,
+      1558,
+      1011
+    ],
+    "category": "Text",
+    "text": "a legal entity established pursuant to the laws of the\nRussian Federation, with its legal address at:\nLogisticheskaya str., 1/6, antr/pom 8.85/15, Severny\nmicrodistrict, Domodedovo, Moscow region, 142000,\nRussia, represented by its General Director Mikhailov\nEvgeny I., acting by virtue of the Charte, further referred to\nas «CLIENT», on the other side"
+  },
+  {
+    "bbox": [
+      903,
+      1056,
+      1468,
+      1115
+    ],
+    "category": "Text",
+    "text": "(hereinafter jointly referred to as the \"Parties\" and\nseparately as the \"Party\")"
+  },
+  {
+    "bbox": [
+      903,
+      1129,
+      1464,
+      1191
+    ],
+    "category": "Text",
+    "text": "have signed the present Master Agreement on the\nfollowing (hereinafter – “Agreement”):"
+  },
+  {
+    "bbox": [
+      903,
+      1241,
+      1458,
+      1271
+    ],
+    "category": "Section-header",
+    "text": "Terms and definitions used in this Agreement:"
+  },
+  {
+    "bbox": [
+      903,
+      1285,
+      1268,
+      1317
+    ],
+    "category": "Text",
+    "text": "GDP: Good Distribution Practice"
+  },
+  {
+    "bbox": [
+      903,
+      1331,
+      1228,
+      1363
+    ],
+    "category": "Text",
+    "text": "GSP: Good Storage Practice"
+  },
+  {
+    "bbox": [
+      903,
+      1377,
+      1308,
+      1409
+    ],
+    "category": "Text",
+    "text": "GMP: Good Manufacturing Practice;"
+  },
+  {
+    "bbox": [
+      903,
+      1423,
+      1323,
+      1453
+    ],
+    "category": "Text",
+    "text": "SOP: Standard Operating Procedure;"
+  },
+  {
+    "bbox": [
+      903,
+      1460,
+      1558,
+      1749
+    ],
+    "category": "Text",
+    "text": "MP: Medicinal products, medical devices and related\nmaterials to be purchased or received by CONTRACTOR\nfor the services provision hereunder in the territory of\nRussia and other countries and delivered to the depot\nhaving the address: 1/10 Logisticheskaya str., Severnoye\nDomodedovo, Production and Logistics Complex, building\n№ 11, Severny microdistrict, Domodedovo, Domodedovo\ncity district, Moscow region, 142000, Russia (hereinafter\nreferred to as the “Depot”), unless otherwise defined in\nappropriate Appendices to this Agreement."
+  },
+  {
+    "bbox": [
+      903,
+      1832,
+      1558,
+      2181
+    ],
+    "category": "Text",
+    "text": "Appendix: document concluded by the Parties and\ncontaining the exact and complete list of Services to be\nrendered and Agency actions to be performed, the cost of\nthe relevant Services, their quantity (if applicable), the\namount of Reimbursable expenses and the agency fee of\nthe CONTRACTOR (if necessary), the name, assortment,\nquantity of supplied MP, their price, total cost, payment\nterms, terms of supply. The Appendices may be concluded\nby the Parties in a form different from the form given in the\nAppendices to the Agreement if it contains all the\nnecessary conditions for the provision of Services and/or\nthe performance of Agency actions, or supply."
+  },
+  {
+    "bbox": [
+      57,
+      2235,
+      549,
+      2267
+    ],
+    "category": "Page-footer",
+    "text": "CONFIDENTIAL I КОНФИДЕНЦИАЛЬНО"
+  },
+  {
+    "bbox": [
+      1429,
+      2241,
+      1575,
+      2271
+    ],
+    "category": "Page-footer",
+    "text": "Page 1 of 14"
+  },
+  {
+    "bbox": [
+      45,
+      26,
+      740,
+      54
+    ],
+    "category": "Page-header",
+    "text": "DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5"
+  },
+  {
+    "bbox": [
+      225,
+      116,
+      877,
+      173
+    ],
+    "category": "Text",
+    "text": "необходимые условия оказания услуг и/или\nсовершения агентских действий, или поставки."
+  },
+  {
+    "bbox": [
+      470,
+      226,
+      632,
+      252
+    ],
+    "category": "Section-header",
+    "text": "ПРЕАМБУЛА"
+  },
+  {
+    "bbox": [
+      225,
+      272,
+      877,
+      502
+    ],
+    "category": "Text",
+    "text": "Настоящий Договор является смешанной формой договора, как он понимается согласно статье 421 Гражданского Кодекса Российской Федерации. Стороны выделяют в этом Договоре элементы договора возмездного оказания услуг, агентского договора, договора поставки. Наименования Сторон не влияют на суть их взаимоотношений и обозначены исключительно для удобства."
+  },
+  {
+    "bbox": [
+      225,
+      527,
+      550,
+      555
+    ],
+    "category": "Section-header",
+    "text": "1. ПРЕДМЕТ ДОГОВОРА"
+  },
+  {
+    "bbox": [
+      225,
+      572,
+      877,
+      685
+    ],
+    "category": "Text",
+    "text": "1.1. ИСПОЛНИТЕЛЬ обязуется совершить действия (далее – «Услуги»), связанные с логистикой ЛП и других материалов клинических исследований, в том числе:"
+  },
+  {
+    "bbox": [
+      225,
+      706,
+      642,
+      733
+    ],
+    "category": "Text",
+    "text": "получение разрешения на ввоз ЛП;"
+  },
+  {
+    "bbox": [
+      225,
+      751,
+      659,
+      778
+    ],
+    "category": "Text",
+    "text": "получение разрешения на вывоз ЛП;"
+  },
+  {
+    "bbox": [
+      225,
+      796,
+      790,
+      824
+    ],
+    "category": "Text",
+    "text": "хранение ЛП и иных материалов исследования;"
+  },
+  {
+    "bbox": [
+      225,
+      842,
+      877,
+      927
+    ],
+    "category": "Text",
+    "text": "сопровождение таможенного оформления (при ввозе и вывозе) ЛП, документов, лабораторных наборов и иных материалов исследования;"
+  },
+  {
+    "bbox": [
+      225,
+      944,
+      877,
+      1000
+    ],
+    "category": "Text",
+    "text": "организация уничтожения ЛП и иных материалов исследования;"
+  },
+  {
+    "bbox": [
+      225,
+      1018,
+      865,
+      1047
+    ],
+    "category": "Text",
+    "text": "маркировка/перемаркировка исследуемого препарата;"
+  },
+  {
+    "bbox": [
+      225,
+      1064,
+      877,
+      1408
+    ],
+    "category": "Text",
+    "text": "Осуществление (организация) транспортировки ЛП и обеспечение во время перевозки на Склад надлежащих условий хранения, указанных КЛИЕНТОМ и соответствующих требованиям GSP и GDP (ЗАКАЗЧИК гарантирует полномочия лиц, указанных им в качестве грузополучателя, на прием грузов и подписание любых передаточных документов от имени соответствующих исследовательских центров/иных грузополучателей; таким образом, повторная проверка полномочий таких лиц со стороны ИСПОЛНИТЕЛЯ не требуется), а также иных согласованных Сторонами действий;"
+  },
+  {
+    "bbox": [
+      225,
+      1427,
+      682,
+      1454
+    ],
+    "category": "Text",
+    "text": "иные Услуги по указанию ЗАКАЗЧИКА;"
+  },
+  {
+    "bbox": [
+      225,
+      1462,
+      877,
+      1520
+    ],
+    "category": "Text",
+    "text": "а ЗАКАЗЧИК обязуется принять и оплатить указанные\nУслуги."
+  },
+  {
+    "bbox": [
+      225,
+      1536,
+      877,
+      1709
+    ],
+    "category": "Text",
+    "text": "Точный и полный перечень оказываемых Услуг, стоимость услуг указывается в соответствующих приложениях к настоящему Договору, которые содержат также стоимость соответствующих Услуг, их количество (если применимо), размер расходов и действия третьих лиц (при необходимости)."
+  },
+  {
+    "bbox": [
+      225,
+      1725,
+      877,
+      1812
+    ],
+    "category": "Text",
+    "text": "ИСПОЛНИТЕЛЬ обязуется приложить усилия, для\nоказания Услуг, согласованных в соответствующих\nприложениях к настоящему Договору в соответствии с:"
+  },
+  {
+    "bbox": [
+      225,
+      1858,
+      642,
+      1886
+    ],
+    "category": "List-item",
+    "text": "- условиями настоящего Договора;"
+  },
+  {
+    "bbox": [
+      225,
+      1904,
+      765,
+      1932
+    ],
+    "category": "List-item",
+    "text": "- всеми применимыми законами и правилами."
+  },
+  {
+    "bbox": [
+      225,
+      1993,
+      877,
+      2080
+    ],
+    "category": "Text",
+    "text": "1.2. За вознаграждение ИСПОЛНИТЕЛЬ обязуется совершить по поручению и за счёт ЗАКАЗЧИКА, но от своего собственного имени указанные ниже действия:"
+  },
+  {
+    "bbox": [
+      225,
+      2096,
+      877,
+      2155
+    ],
+    "category": "List-item",
+    "text": "(а) Осуществление (организация) закупок ЛП,\nпредназначенных для проведения клинических"
+  },
+  {
+    "bbox": [
+      1158,
+      226,
+      1302,
+      252
+    ],
+    "category": "Section-header",
+    "text": "PREAMBLE"
+  },
+  {
+    "bbox": [
+      904,
+      272,
+      1556,
+      474
+    ],
+    "category": "Text",
+    "text": "This Agreement is a mixed form of the agreement within the meaning of article 421 of the Civil Code of the Russian Federation. The parties shall underline the elements of the paid services agreement, agency agreement and supply Agreement herein. Names of the Parties shall not affect the essence of their relations, and they are incorporated herein only for convenience purposes."
+  },
+  {
+    "bbox": [
+      904,
+      527,
+      1321,
+      555
+    ],
+    "category": "Section-header",
+    "text": "1. SUBJECT OF THE AGREEMENT"
+  },
+  {
+    "bbox": [
+      904,
+      572,
+      1556,
+      659
+    ],
+    "category": "Text",
+    "text": "1.1. CONTRACTOR undertakes to perform actions\n(hereinafter – “Services”) related to logistics of MP and\nother clinical trial materials, including but not limited to:"
+  },
+  {
+    "bbox": [
+      904,
+      705,
+      1329,
+      733
+    ],
+    "category": "Text",
+    "text": "obtaining approval for MP importation;"
+  },
+  {
+    "bbox": [
+      904,
+      751,
+      1329,
+      778
+    ],
+    "category": "Text",
+    "text": "obtaining approval for MP exportation;"
+  },
+  {
+    "bbox": [
+      904,
+      796,
+      1420,
+      824
+    ],
+    "category": "Text",
+    "text": "storage of MP and other clinical trial materials;"
+  },
+  {
+    "bbox": [
+      904,
+      842,
+      1556,
+      927
+    ],
+    "category": "Text",
+    "text": "assisting in customs clearance (during importation and exportation) of MP, documents, laboratory kits and other clinical trial materials;"
+  },
+  {
+    "bbox": [
+      904,
+      944,
+      1556,
+      1000
+    ],
+    "category": "Text",
+    "text": "organization of destruction of the MP and other clinical trial\nmaterials;"
+  },
+  {
+    "bbox": [
+      904,
+      1018,
+      1201,
+      1047
+    ],
+    "category": "Text",
+    "text": "labelling/re-labeling of MP;"
+  },
+  {
+    "bbox": [
+      904,
+      1064,
+      1556,
+      1322
+    ],
+    "category": "Text",
+    "text": "Organizing transportation of MP, ensuring during transportation to the Depot appropriate storage conditions indicated by CLIENT and compliant with GSP and GDP (the CLIENT guarantees the authority of the persons indicated by it as a consignee to receive cargo and sign any transfer documents on behalf of the relevant clinical trial sites/ other consignees; thus, verification of the authority of such persons by the CONTRACTOR is not required) guidelines and other actions agreed between the Parties;"
+  },
+  {
+    "bbox": [
+      904,
+      1427,
+      1372,
+      1454
+    ],
+    "category": "Text",
+    "text": "other Services as ordered by the CLIENT;"
+  },
+  {
+    "bbox": [
+      904,
+      1462,
+      1556,
+      1520
+    ],
+    "category": "Text",
+    "text": "and CLIENT undertakes to accept and pay for such\nServices."
+  },
+  {
+    "bbox": [
+      904,
+      1536,
+      1556,
+      1681
+    ],
+    "category": "Text",
+    "text": "The exact and exhaustive list of Services provided, cost of\nservices is contained in appropriate appendices to this\nAgreement, which also contain cost of appropriate\nServices, their number (if applicable), amount of related\nexpenses and actions of third parties (if required)."
+  },
+  {
+    "bbox": [
+      904,
+      1725,
+      1556,
+      1838
+    ],
+    "category": "Text",
+    "text": "CONTRACTOR agrees to devote its best efforts, as\ndirected by CLIENT, to provide the Services set forth in\ncorresponding appendices to the present Agreement in\naccordance with:"
+  },
+  {
+    "bbox": [
+      904,
+      1858,
+      1405,
+      1886
+    ],
+    "category": "List-item",
+    "text": "- the terms and conditions of this Agreement;"
+  },
+  {
+    "bbox": [
+      904,
+      1904,
+      1375,
+      1932
+    ],
+    "category": "List-item",
+    "text": "- all applicable laws, rules and regulations."
+  },
+  {
+    "bbox": [
+      904,
+      1993,
+      1556,
+      2080
+    ],
+    "category": "Text",
+    "text": "1.2. For remuneration CONTRACTOR undertakes to perform on the instruction of CLIENT and at his expense, but in his own name actions described below:"
+  },
+  {
+    "bbox": [
+      904,
+      2096,
+      1556,
+      2155
+    ],
+    "category": "List-item",
+    "text": "(a) Organizing purchasing of MP intended for performance of clinical trials, analytical tests, purchasing on the basis of"
+  },
+  {
+    "bbox": [
+      57,
+      2240,
+      544,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "CONFIDENTIAL I КОНФИДЕНЦИАЛЬНО"
+  },
+  {
+    "bbox": [
+      1427,
+      2242,
+      1570,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "Page 2 of 14"
+  },
+  {
+    "bbox": [
+      44,
+      26,
+      743,
+      54
+    ],
+    "category": "Page-header",
+    "text": "DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5"
+  },
+  {
+    "bbox": [
+      225,
+      115,
+      878,
+      289
+    ],
+    "category": "Text",
+    "text": "исследований, аналитических тестирований, закупок ЛП по жизненным показаниям для конкретных пациентов, а также для иных целей, которые будут дополнительно согласованы Сторонами в приложениях к настоящему Договору. В результате закупки ЛП переходят в собственность ЗАКАЗЧИКА."
+  },
+  {
+    "bbox": [
+      225,
+      304,
+      878,
+      363
+    ],
+    "category": "Text",
+    "text": "(b) Иные действия, согласованные Сторонами в приложениях к настоящему Договору."
+  },
+  {
+    "bbox": [
+      225,
+      378,
+      878,
+      577
+    ],
+    "category": "Text",
+    "text": "ИСПОЛНИТЕЛЬ на основании указаний ЗАКАЗЧИКА, согласованных Сторонами в соответствующих приложениях к настоящему Договору и являющихся его неотъемлемой частью (далее – «Приложения»), обязуется приложить усилия, для выполнения задач, установленных настоящим Договором в соответствии с:"
+  },
+  {
+    "bbox": [
+      225,
+      598,
+      636,
+      626
+    ],
+    "category": "Text",
+    "text": "- условиями настоящего Договора;"
+  },
+  {
+    "bbox": [
+      225,
+      644,
+      765,
+      671
+    ],
+    "category": "Text",
+    "text": "- всеми применимыми законами и правилами."
+  },
+  {
+    "bbox": [
+      225,
+      688,
+      878,
+      745
+    ],
+    "category": "Text",
+    "text": "Форма приложения на Услуги и Агентские действия приведена в Приложении А к настоящему Договору."
+  },
+  {
+    "bbox": [
+      225,
+      799,
+      878,
+      1001
+    ],
+    "category": "Text",
+    "text": "1.3. Стороны договорились, что в рамках настоящего Договора ИСПОЛНИТЕЛЬ поставляет ЗАКАЗЧИКУ ЛП в соответствии с подписываемыми сторонами приложениями, а ЗАКАЗЧИК обязуется оплатить надлежащим образом поставленные и принятые ЛП на условия настоящего Договора. Форма приложения приведена в Приложении В к настоящему Договору."
+  },
+  {
+    "bbox": [
+      225,
+      1061,
+      754,
+      1090
+    ],
+    "category": "Section-header",
+    "text": "## 2. ЦЕНА ДОГОВОРА. ВАЛЮТА ДОГОВОРА"
+  },
+  {
+    "bbox": [
+      225,
+      1107,
+      878,
+      1195
+    ],
+    "category": "Text",
+    "text": "2.1. Цена Договора складывается из стоимости всех приложений, спецификаций, выставленных счетов к настоящему Договору."
+  },
+  {
+    "bbox": [
+      225,
+      1202,
+      583,
+      1231
+    ],
+    "category": "Text",
+    "text": "2.2. Валюта договора – ЕВРО."
+  },
+  {
+    "bbox": [
+      225,
+      1240,
+      878,
+      1527
+    ],
+    "category": "Text",
+    "text": "2.3. Стоимость услуг может быть установлена сторонами в ЕВРО, долларах США или российских рублях в соответствии с подписываемыми сторонами Приложениями к Договору. Если приложение составлено в долларах США, то его стоимость оценивается в Евро по курсу Банка России на дату составления соответствующего приложения. Если Возмещаемые расходы понесены в валюте, отличной от Евро, то они оцениваются в Евро по курсу Банка России на дату составления Отчета Агента."
+  },
+  {
+    "bbox": [
+      225,
+      1527,
+      878,
+      1642
+    ],
+    "category": "Text",
+    "text": "Валютой платежа могут быть Евро и доллар США. Уплаченная в долларах США сумма оценивается в Евро по курсу Банка России на дату составления соответствующего приложения."
+  },
+  {
+    "bbox": [
+      225,
+      1649,
+      878,
+      1824
+    ],
+    "category": "Text",
+    "text": "2.4. Оплата услуг, вознаграждения и дополнительной выгоды ИСПОЛНИТЕЛЯ, стоимости ЛП, товара и стоимости действий, осуществляемых третьими лицами, осуществляется в валюте, в которой установлена стоимость услуг по соответствующему приложению."
+  },
+  {
+    "bbox": [
+      225,
+      1884,
+      640,
+      1914
+    ],
+    "category": "Section-header",
+    "text": "## 3. ПОРЯДОК РАСЧЕТОВ. УСЛУГИ"
+  },
+  {
+    "bbox": [
+      225,
+      1931,
+      878,
+      2075
+    ],
+    "category": "Text",
+    "text": "3.1. Согласованная Сторонами цена и стоимость соответствующих Услуг включает все и любые расходы, которые ИСПОЛНИТЕЛЬ понесет в связи с исполнением его обязательств по настоящему Договору."
+  },
+  {
+    "bbox": [
+      904,
+      115,
+      1556,
+      231
+    ],
+    "category": "Text",
+    "text": "life-saving medical conditions for specified patients, as well as for the other purposes which will be additionally agreed by the Parties in the appendices hereto. Upon purchase MP will be become property of CLIENT."
+  },
+  {
+    "bbox": [
+      904,
+      304,
+      1556,
+      363
+    ],
+    "category": "Text",
+    "text": "(b) Other actions as agreed by the Parties in the appendices hereto."
+  },
+  {
+    "bbox": [
+      904,
+      378,
+      1556,
+      523
+    ],
+    "category": "Text",
+    "text": "CONTRACTOR agrees to devote its best efforts, as directed by CLIENT and agreed by the Parties in the corresponding appendices hereto being an integral part of this Agreement (hereinafter – the Appendices), to perform the tasks set forth in this Agreement in accordance with:"
+  },
+  {
+    "bbox": [
+      904,
+      598,
+      1405,
+      626
+    ],
+    "category": "Text",
+    "text": "- the terms and conditions of this Agreement;"
+  },
+  {
+    "bbox": [
+      904,
+      644,
+      1375,
+      671
+    ],
+    "category": "Text",
+    "text": "- all applicable laws, rules and regulations."
+  },
+  {
+    "bbox": [
+      904,
+      688,
+      1556,
+      745
+    ],
+    "category": "Text",
+    "text": "The form of the appendix for Services and Agency actions is given in Appendix A to this Agreement."
+  },
+  {
+    "bbox": [
+      904,
+      799,
+      1556,
+      972
+    ],
+    "category": "Text",
+    "text": "1.3. The parties agreed that within the framework of this Agreement CONTRACTOR can supply MP in accordance with corresponding appendices, and the CLIENT undertakes to pay for the duly delivered and accepted MP on the terms of this. The form of the appendix is given in Appendix B to this Agreement."
+  },
+  {
+    "bbox": [
+      904,
+      1061,
+      1506,
+      1090
+    ],
+    "category": "Section-header",
+    "text": "## 2. AGREEMENT PRICE. AGREEMENT CURRENCY"
+  },
+  {
+    "bbox": [
+      904,
+      1107,
+      1556,
+      1166
+    ],
+    "category": "Text",
+    "text": "2.1. The Agreement price is comprised of the amount of all appendices, specifications and invoices to this Agreement."
+  },
+  {
+    "bbox": [
+      904,
+      1210,
+      1363,
+      1240
+    ],
+    "category": "Text",
+    "text": "2.2. Currency of the Agreement – EURO."
+  },
+  {
+    "bbox": [
+      904,
+      1247,
+      1556,
+      1506
+    ],
+    "category": "Text",
+    "text": "2.3. The cost of services can be set by the parties in EURO, USD and RUR, in accordance with the appendices to the Agreement signed by the parties. If the Appendix is made in USD, then their cost is estimated in Euros at the exchange rate of the Bank of Russia on the date of drawing up the corresponding Appendix. If the Reimbursable expenses are incurred in a currency other than Euros, they are estimated in Euros at the exchange rate of the Bank of Russia as of the date of the Agent's Report."
+  },
+  {
+    "bbox": [
+      904,
+      1506,
+      1556,
+      1622
+    ],
+    "category": "Text",
+    "text": "The payment currency can be Euro and USD. The amount paid in USD is estimated in Euros at the exchange rate of the Bank of Russia as of the date of drawing up the corresponding Appendix."
+  },
+  {
+    "bbox": [
+      904,
+      1630,
+      1556,
+      1775
+    ],
+    "category": "Text",
+    "text": "2.4. Payment for services, remuneration and additional benefits of the CONTRACTOR, the cost of MP, goods and the cost of actions carried out by third parties is carried out in the currency in which the cost of services is established for the corresponding appendices."
+  },
+  {
+    "bbox": [
+      904,
+      1884,
+      1334,
+      1914
+    ],
+    "category": "Section-header",
+    "text": "## 3. TERMS OF PAYMENT. SERVICES"
+  },
+  {
+    "bbox": [
+      904,
+      1931,
+      1556,
+      2046
+    ],
+    "category": "Text",
+    "text": "3.1. The price and sum agreed by the Parties for the respective Services shall include each and all the expenses which CONTRACTOR will bear within the performing of its obligations provided herein."
+  },
+  {
+    "bbox": [
+      56,
+      2239,
+      544,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "CONFIDENTIAL I КОНФИДЕНЦИАЛЬНО"
+  },
+  {
+    "bbox": [
+      1426,
+      2241,
+      1570,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "Page 3 of 14"
+  },
+  {
+    "bbox": [
+      45,
+      25,
+      741,
+      54
+    ],
+    "category": "Page-header",
+    "text": "DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5"
+  },
+  {
+    "bbox": [
+      224,
+      123,
+      878,
+      211
+    ],
+    "category": "Text",
+    "text": "3.2. ИСПОЛНИТЕЛЬ оформляет Инвойс в течение 10 (Десяти) рабочих дней с даты окончания каждого соответствующего календарного месяца."
+  },
+  {
+    "bbox": [
+      224,
+      226,
+      878,
+      372
+    ],
+    "category": "Text",
+    "text": "3.3. При отказе ЗАКАЗЧИКА от приемки оказанных Услуг Стороны в течение 10 (девяти) рабочих дней с момента получения ЗАКАЗЧИКОМ счета согласовывают перечень необходимых доработок и сроки их выполнения."
+  },
+  {
+    "bbox": [
+      224,
+      386,
+      878,
+      502
+    ],
+    "category": "Text",
+    "text": "3.4. При отсутствии возражений по результатам оказанных услуг, в течение 10 (пяти) рабочих дней с момента получения ЗАКАЗЧИКОМ счета, Услуги считаются принятыми ЗАКАЗЧИКОМ."
+  },
+  {
+    "bbox": [
+      224,
+      517,
+      878,
+      835
+    ],
+    "category": "Text",
+    "text": "3.5. Выплата стоимости Услуг ИСПОЛНИТЕЛЯ производится ЗАКАЗЧИКОМ в ЕВРО, в долларах США ежемесячно на основании выставленных ИСПОЛНИТЕЛЕМ счетов (в том числе путём направления их на электронную почту контактному лицу ИСПОЛНИТЕЛЯ) в течение 180 (Сто восьмидесяти) банковских дней с момента выставления счета, если иное не согласовано Сторонами в Приложениях к настоящему Договору. Днём оплаты считается день поступления денежных средств на счёт ИСПОЛНИТЕЛЯ."
+  },
+  {
+    "bbox": [
+      224,
+      886,
+      839,
+      917
+    ],
+    "category": "Section-header",
+    "text": "## 4. ПОРЯДОК РАСЧЕТОВ. АГЕНТСКИЕ ДЕЙСТВИЯ"
+  },
+  {
+    "bbox": [
+      224,
+      933,
+      878,
+      1251
+    ],
+    "category": "Text",
+    "text": "4.1. Стоимость ЛП и стоимость услуг, осуществляемых третьими лицами, таможенные пошлины, налоги и сборы, а также иные таможенные платежи (включая временное хранение) относятся к Возмещаемым расходам ИСПОЛНИТЕЛЯ (далее по тексту – «Возмещаемые расходы») в рамках осуществления им агентских действий (денежные средства, поступающие ИСПОЛНИТЕЛЮ в счет авансирования Возмещаемых расходов ИСПОЛНИТЕЛЯ, не могут быть использованы на иные цели и не являются доходом Исполнителя)."
+  },
+  {
+    "bbox": [
+      224,
+      1266,
+      878,
+      1613
+    ],
+    "category": "Text",
+    "text": "4.2. Выплата агентского вознаграждения и Возмещаемых расходов ИСПОЛНИТЕЛЯ, производится ЗАКАЗЧИКОМ в валюте соответствующего Приложения авансовым платежом на основании выставленных ИСПОЛНИТЕЛЕМ счетов (в том числе путем направления их на электронную почту) в течение 180 (Сто восьмидесяти) банковских дней со дня выставления каждого соответствующего счета ИСПОЛНИТЕЛЕМ, если иное не согласовано Сторонами в Приложениях к настоящему Договору. Днем оплаты считается день поступления денежных средств на счёт ИСПОЛНИТЕЛЯ."
+  },
+  {
+    "bbox": [
+      224,
+      1627,
+      878,
+      1801
+    ],
+    "category": "Text",
+    "text": "4.3. ЛП подлежат приобретению по ценам не выше, определённых в Приложениях к Договору. В случае осуществления закупки ЛП на более выгодных условиях, дополнительная выгода, как она определена в ст. 992 Гражданского кодекса Российской Федерации, в полном объёме причитается ИСПОЛНИТЕЛЮ."
+  },
+  {
+    "bbox": [
+      224,
+      1817,
+      878,
+      1991
+    ],
+    "category": "Text",
+    "text": "4.4. По окончании выполнения всех обязательств, вытекающих из каждого Приложения к настоящему Договору, ИСПОЛНИТЕЛЬ подписывает Инвойс, в который включаются осуществленные ИСПОЛНИТЕЛЕМ действия и понесенные ИСПОЛНИТЕЛЕМ расходы."
+  },
+  {
+    "bbox": [
+      224,
+      2051,
+      689,
+      2081
+    ],
+    "category": "Section-header",
+    "text": "## 5. ПОРЯДОК РАСЧЕТОВ. ПОСТАВКА"
+  },
+  {
+    "bbox": [
+      903,
+      123,
+      1557,
+      211
+    ],
+    "category": "Text",
+    "text": "3.2. The CONTRACTOR draws up and signs the Invoice within 10 (Ten) working days from the date of the end of each respective calendar month."
+  },
+  {
+    "bbox": [
+      903,
+      226,
+      1557,
+      372
+    ],
+    "category": "Text",
+    "text": "3.3. Should the CLIENT refuse to accept the Services rendered, the Parties within 10 (ten) working days from the moment the CLIENT receives the invoice, coordinate the list of necessary improvements and the timing of their implementation."
+  },
+  {
+    "bbox": [
+      903,
+      386,
+      1557,
+      502
+    ],
+    "category": "Text",
+    "text": "3.4. If there are no objections to the results of the services rendered, within 10 (five) working days from the date of receipt by the CLIENT of the invoice, the Services are considered to be accepted by the CLIENT."
+  },
+  {
+    "bbox": [
+      903,
+      517,
+      1557,
+      748
+    ],
+    "category": "Text",
+    "text": "3.5. Cost of the CONTRACTOR's Services is to be paid by CLIENT in EURO, USD monthly based on CONTRACTOR's invoices (which can also be provided by e-mail to CONTRACTOR's contact person) within 180 bank days upon issue of the invoice, if otherwise agreed by the Parties in the Appendices to the present Agreement. The day of the payment is defined as the day when the funds are received on CONTRACTOR's account."
+  },
+  {
+    "bbox": [
+      903,
+      886,
+      1434,
+      917
+    ],
+    "category": "Section-header",
+    "text": "## 4. TERMS OF PAYMENT. AGENCY ACTIONS"
+  },
+  {
+    "bbox": [
+      903,
+      933,
+      1557,
+      1194
+    ],
+    "category": "Text",
+    "text": "4.1. Cost of MP and cost of services of third parties, customs duties, taxes and fees, as well as other customs payments (including temporary storage) belong to Reimbursable expenses of CONTRACTOR (hereinafter referred to as \"Reimbursable expenses\") under the fulfillment of its agent activities hereby (amounts remitted to CONTRACTOR in advance of the Reimbursable expenses of the CONTRACTOR, cannot be used for other purposes and are not the income of the CONTRACTOR)."
+  },
+  {
+    "bbox": [
+      903,
+      1266,
+      1557,
+      1524
+    ],
+    "category": "Text",
+    "text": "4.2. CONTRACTOR's agent fee and Reimbursable expenses are to be paid by CLIENT in the currency of the relevant Appendix in advance based on CONTRACTOR's invoices (which can also be provided by e-mail) within 180 banking days from the date of issue of each corresponding invoice by CONTRACTOR if otherwise agreed by the Parties in the Appendices to the present Agreement. The day of the payment is defined as the day when the funds are received on CONTRACTOR's account."
+  },
+  {
+    "bbox": [
+      903,
+      1627,
+      1557,
+      1774
+    ],
+    "category": "Text",
+    "text": "4.3. The MP are to be purchased at the prices not exceeding the amounts specified in Appendices to the Agreement. If the MP are purchased at a lower price the additional benefit (as it defined in the Cl. 992 of the Civil Code of Russian Federation) is due to CONTRACTOR."
+  },
+  {
+    "bbox": [
+      903,
+      1817,
+      1557,
+      1934
+    ],
+    "category": "Text",
+    "text": "4.4. Upon completion of all obligations under each Appendix to this Agreement, CONTRACTOR signs the Invoice, which should include actions performed and expenses incurred by CONTRACTOR."
+  },
+  {
+    "bbox": [
+      903,
+      2051,
+      1306,
+      2081
+    ],
+    "category": "Section-header",
+    "text": "## 5. TERMS OF PAYMENT. SUPPLY"
+  },
+  {
+    "bbox": [
+      56,
+      2239,
+      544,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "CONFIDENTIAL I КОНФИДЕНЦИАЛЬНО"
+  },
+  {
+    "bbox": [
+      1426,
+      2239,
+      1570,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Page 4 of 14"
+  },
+  {
+    "bbox": [
+      43,
+      25,
+      742,
+      54
+    ],
+    "category": "Page-header",
+    "text": "DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5"
+  },
+  {
+    "bbox": [
+      224,
+      123,
+      879,
+      212
+    ],
+    "category": "Text",
+    "text": "5.1. Стоимость ЛП и условия поставки указывается в соответствующих Приложениях к настоящему Договору."
+  },
+  {
+    "bbox": [
+      224,
+      227,
+      879,
+      428
+    ],
+    "category": "Text",
+    "text": "5.2. Если иное прямо не установлено соответствующим Приложением к настоящему Договору, ЛП оплачиваются ЗАКАЗЧИКОМ в порядке 100% предоплаты в течение 180 банковских дней с даты получения ЗАКАЗЧИКОМ соответствующего счета. Днём оплаты считается день поступления денежных средств на счёт ИСПОЛНИТЕЛЯ."
+  },
+  {
+    "bbox": [
+      224,
+      436,
+      879,
+      753
+    ],
+    "category": "Text",
+    "text": "5.3. По окончании выполнения обязательств поставки, вытекающих из каждого Приложения к настоящему Договору, ИСПОЛНИТЕЛЬ предоставляет ЗАКАЗЧИКУ Инвойс с приложением пакета дополнительных применимых документов, включая, но, не ограничиваясь ими: счет, сертификат соответствия, сертификаты анализов, протокол согласования цен на поставки ЛП, включенных в перечень жизненно необходимых и важнейших лекарственных препаратов, составленный между ИСПОЛНИТЕЛЕМ и третьими лицами и т.д."
+  },
+  {
+    "bbox": [
+      224,
+      787,
+      692,
+      816
+    ],
+    "category": "Section-header",
+    "text": "## 6. ПРОЧИЕ ФИНАНСОВЫЕ УСЛОВИЯ"
+  },
+  {
+    "bbox": [
+      224,
+      835,
+      879,
+      922
+    ],
+    "category": "Text",
+    "text": "6.1. Стороны соглашаются, что все комиссии, взимаемые при перечислении денег на счёт ИСПОЛНИТЕЛЯ, уплачиваются ЗАКАЗЧИКОМ."
+  },
+  {
+    "bbox": [
+      224,
+      981,
+      639,
+      1040
+    ],
+    "category": "Section-header",
+    "text": "## 7. ПРИВЛЕЧЕНИЕ ТРЕТЬИХ ЛИЦ. ОТВЕТСТВЕННОСТЬ СТОРОН"
+  },
+  {
+    "bbox": [
+      224,
+      1056,
+      879,
+      1202
+    ],
+    "category": "Text",
+    "text": "7.1. ИСПОЛНИТЕЛЬ имеет право привлекать третьих лиц для выполнения обязательств в соответствии с настоящим Договором, при этом ответственность за качество и сроки осуществления соответствующих действий возлагается на ИСПОЛНИТЕЛЯ."
+  },
+  {
+    "bbox": [
+      224,
+      1218,
+      879,
+      1364
+    ],
+    "category": "Text",
+    "text": "7.2. За нарушение условий настоящего Договора Стороны несут ответственность в соответствии с действующим законодательством Российской Федерации. Убытки полежат возмещению в размере реального ущерба."
+  },
+  {
+    "bbox": [
+      224,
+      1378,
+      879,
+      1524
+    ],
+    "category": "Text",
+    "text": "7.3. В случае неисполнения либо ненадлежащего исполнения ЗАКАЗЧИКОМ обязательств по оплате ЗАКАЗЧИК обязан уплатить ИСПОЛНИТЕЛЮ по его требованию неустойку в размере 0,1 % от неуплаченной суммы за каждый день просрочки."
+  },
+  {
+    "bbox": [
+      224,
+      1538,
+      879,
+      1655
+    ],
+    "category": "Text",
+    "text": "7.4. Выплата неустойки не лишает Сторону, пострадавшую от нарушения настоящего Договора, права требовать возмещения убытков в части, не покрытой неустойкой."
+  },
+  {
+    "bbox": [
+      224,
+      1722,
+      438,
+      1751
+    ],
+    "category": "Section-header",
+    "text": "## 8. ФОРС-МАЖОР"
+  },
+  {
+    "bbox": [
+      224,
+      1760,
+      879,
+      2109
+    ],
+    "category": "Text",
+    "text": "8.1. Стороны освобождаются от исполнения своих обязательств по настоящему Договору, если их исполнение задерживается или затрудняется каким-либо событием, находящимся вне пределов разумного контроля такой Стороны, включая, но не ограничиваясь этим, стихийные бедствия, пожар, взрыв, неблагоприятные погодные условия, болезни, войны, восстания, гражданские беспорядки, бунты, действия правительства или отключение электроэнергии, при условии, что такое невыполнение должно быть освобождено от ответственности только в пределах и на время действия вышеперечисленных условий."
+  },
+  {
+    "bbox": [
+      904,
+      123,
+      1558,
+      182
+    ],
+    "category": "Text",
+    "text": "5.1. The cost of MPs and supply conditions shall be specified in a corresponding Appendix to this Agreement."
+  },
+  {
+    "bbox": [
+      904,
+      225,
+      1558,
+      398
+    ],
+    "category": "Text",
+    "text": "5.2. Unless otherwise expressly agreed by the Parties in the respective Appendix hereto, CLIENT shall effect 100% prepay for MPs in advance within 180 banking days from the date of receipt of the corresponding invoice by CLIENT. The day of the payment is defined as the day when the funds are received on CONTRACTOR's account."
+  },
+  {
+    "bbox": [
+      904,
+      443,
+      1558,
+      647
+    ],
+    "category": "Text",
+    "text": "5.3. Upon completion of supply obligations under each Appendix to this Agreement, CONTRACTOR provides to the CLIENT Invoice with a package of additional applicable documents, including, but not limited to: invoice, certificate of conformity, certificate of analysis, price negotiation memorandum (for VED medicines) signed by CONTRACTOR and third parties according hereby."
+  },
+  {
+    "bbox": [
+      904,
+      787,
+      1337,
+      816
+    ],
+    "category": "Section-header",
+    "text": "## 6. OTHER FINANCIAL CONDITIONS"
+  },
+  {
+    "bbox": [
+      904,
+      834,
+      1558,
+      922
+    ],
+    "category": "Text",
+    "text": "6.1. The Parties hereby agree that all commissions, incurred during transfer of funds to the account of CONTRACTOR shall be borne by CLIENT."
+  },
+  {
+    "bbox": [
+      904,
+      981,
+      1364,
+      1040
+    ],
+    "category": "Section-header",
+    "text": "## 7. INVOLVEMENT OF THIRD PARTIES. RESPONSIBILITIES OF THE PARTIES"
+  },
+  {
+    "bbox": [
+      904,
+      1056,
+      1558,
+      1202
+    ],
+    "category": "Text",
+    "text": "7.1. CONTRACTOR has the right to use third parties in order to perform the obligations of work under this Agreement. In such cases CONTRACTOR is fully responsible for the quality and the timelines of appropriate actions."
+  },
+  {
+    "bbox": [
+      904,
+      1218,
+      1558,
+      1307
+    ],
+    "category": "Text",
+    "text": "7.2. Violation of any provisions of this Agreement shall entail the Parties being liable under the laws of the Russian Federation. Direct damages are subject to reimbursement."
+  },
+  {
+    "bbox": [
+      904,
+      1378,
+      1558,
+      1524
+    ],
+    "category": "Text",
+    "text": "7.3. In case of non-execution or improper execution by CLIENT of payment obligations according to this Agreement, CLIENT is to pay to CONTRACTOR at CONTRACTOR's request a penalty in the amount of 0.1% of the delayed sum for each day of delay."
+  },
+  {
+    "bbox": [
+      904,
+      1538,
+      1558,
+      1627
+    ],
+    "category": "Text",
+    "text": "7.4. Payment of the penalty shall not limit the Parties' ability to claim compensation of damages sustained in the amount which has not been covered by the respective penalty."
+  },
+  {
+    "bbox": [
+      904,
+      1722,
+      1152,
+      1751
+    ],
+    "category": "Section-header",
+    "text": "## 8. FORCE MAJEURE"
+  },
+  {
+    "bbox": [
+      904,
+      1760,
+      1558,
+      1994
+    ],
+    "category": "Text",
+    "text": "8.1. The Parties shall be excused from performing their obligations under this Agreement if its performance is delayed or prevented by any event beyond such Party's reasonable control, including, but not limited to, acts of God, fire, explosion, weather, disease, war, insurrection, civil strife, riots, government action, or power failure, provided that such performance shall be excused only to the extent of and during such disability."
+  },
+  {
+    "bbox": [
+      54,
+      2238,
+      546,
+      2271
+    ],
+    "category": "Page-footer",
+    "text": "CONFIDENTIAL I КОНФИДЕНЦИАЛЬНО"
+  },
+  {
+    "bbox": [
+      1426,
+      2238,
+      1571,
+      2271
+    ],
+    "category": "Page-footer",
+    "text": "Page 5 of 14"
+  },
+  {
+    "bbox": [
+      44,
+      26,
+      742,
+      54
+    ],
+    "category": "Page-header",
+    "text": "DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5"
+  },
+  {
+    "bbox": [
+      224,
+      114,
+      878,
+      319
+    ],
+    "category": "Text",
+    "text": "8.2. Сторона, для которой исполнение обязательств стало невозможным, должна немедленно в письменной форме уведомить другую Сторону о начале, ожидаемой продолжительности и прекращении действия указанных обстоятельств, в противном случае такие обстоятельства считаются несуществующими."
+  },
+  {
+    "bbox": [
+      224,
+      325,
+      878,
+      527
+    ],
+    "category": "Text",
+    "text": "8.3. Если форс-мажорные обстоятельства остаются в силе в течение периода, превышающего 2 (два) месяца подряд, и существует вероятность того, что они не прекратятся, то действие настоящего Соглашения может быть прекращено одной из Сторон путем уведомления другой Стороны."
+  },
+  {
+    "bbox": [
+      224,
+      534,
+      878,
+      669
+    ],
+    "category": "Text",
+    "text": "8.4. Во избежание сомнений форс-мажорные обстоятельства не должны препятствовать Заказчику выполнять свои платежные обязательства по настоящему Договору."
+  },
+  {
+    "bbox": [
+      224,
+      714,
+      864,
+      743
+    ],
+    "category": "Section-header",
+    "text": "## 9. РАЗРЕШЕНИЕ СПОРОВ И ПРИМЕНИМОЕ ПРАВО"
+  },
+  {
+    "bbox": [
+      224,
+      789,
+      878,
+      849
+    ],
+    "category": "Text",
+    "text": "9.1. Настоящий Договор регулируется правом Российской Федерации."
+  },
+  {
+    "bbox": [
+      224,
+      870,
+      878,
+      956
+    ],
+    "category": "Text",
+    "text": "9.2. Все споры по настоящему Договору разрешаются путём переговоров, с обязательным соблюдением претензионного порядка урегулирования споров."
+  },
+  {
+    "bbox": [
+      224,
+      972,
+      878,
+      1117
+    ],
+    "category": "Text",
+    "text": "9.3. При недостижении согласия путём переговоров в течение 30 (Тридцати) календарных дней, споры решаются в Арбитражном суде г. Москвы в соответствии с действующим законодательством Российской Федерации."
+  },
+  {
+    "bbox": [
+      224,
+      1167,
+      644,
+      1200
+    ],
+    "category": "Section-header",
+    "text": "## 10. СРОК ДЕЙСТВИЯ ДОГОВОРА"
+  },
+  {
+    "bbox": [
+      224,
+      1216,
+      878,
+      1274
+    ],
+    "category": "Text",
+    "text": "10.1. Договор действует с даты, указанной на титульной странице, до 31 декабря 2023 г."
+  },
+  {
+    "bbox": [
+      224,
+      1289,
+      878,
+      1350
+    ],
+    "category": "Text",
+    "text": "10.2. Досрочно Договор может быть расторгнут в следующих случаях:"
+  },
+  {
+    "bbox": [
+      224,
+      1363,
+      878,
+      1451
+    ],
+    "category": "Text",
+    "text": "- Любая из Сторон имеет право расторгнуть настоящий Договор, уведомив другую Сторону не менее чем за 30 (тридцать) календарных дней."
+  },
+  {
+    "bbox": [
+      224,
+      1465,
+      878,
+      1698
+    ],
+    "category": "Text",
+    "text": "- Любая Сторона имеет право расторгнуть Договор в случае нарушения условий Договора второй Стороной а) на основании письменного уведомления о состоявшемся нарушении Договора, если нарушение невозможно исправить, или б) по истечении 30 рабочих дней после получения уведомления о состоявшемся нарушении Договора, если нарушение могло быть исправлено, но не было исправлено."
+  },
+  {
+    "bbox": [
+      224,
+      1714,
+      878,
+      1774
+    ],
+    "category": "Text",
+    "text": "- По решению компетентных органов в соответствии с действующим законодательством РФ."
+  },
+  {
+    "bbox": [
+      224,
+      1792,
+      878,
+      1997
+    ],
+    "category": "Text",
+    "text": "10.3. В случае досрочного расторжения настоящего Договора ЗАКАЗЧИК выплачивает ИСПОЛНИТЕЛЮ стоимость всех неоплаченных фактически осуществленных ИСПОЛНИТЕЛЕМ действий, понесенных расходов и стоимость осуществлённых третьими лицами действий в соответствии со всеми приложениями к данному Договору."
+  },
+  {
+    "bbox": [
+      224,
+      2010,
+      878,
+      2128
+    ],
+    "category": "Text",
+    "text": "10.4. Если за 30 (тридцать) дней до истечения срока действия настоящего Договора Стороны не сообщили письменно о его прекращении, то он считается продленным на год на тех же условиях. В порядке,"
+  },
+  {
+    "bbox": [
+      903,
+      114,
+      1557,
+      281
+    ],
+    "category": "Text",
+    "text": "8.2. The Party for which the performance of obligations has become impossible is to notify immediately the other Party in writing about the beginning, expected duration and cessation of the underlying circumstances, otherwise such circumstances are considered to be non-existent."
+  },
+  {
+    "bbox": [
+      903,
+      325,
+      1557,
+      493
+    ],
+    "category": "Text",
+    "text": "8.3. Should the force majeure circumstances remain in force for a period exceeding 2 (two) successive months and should not be likely to cease to act, this Agreement may be terminated by either Party by means of notifying the other Party."
+  },
+  {
+    "bbox": [
+      900,
+      534,
+      1557,
+      635
+    ],
+    "category": "Text",
+    "text": "8.4. For the avoidance of doubt, a force majeure event shall not prevent the Client from performing its payment obligations under this Agreement."
+  },
+  {
+    "bbox": [
+      903,
+      714,
+      1517,
+      771
+    ],
+    "category": "Section-header",
+    "text": "## 9. RESOLUTION OF CONFLICTS AND APPLICABLE LAW"
+  },
+  {
+    "bbox": [
+      903,
+      789,
+      1557,
+      847
+    ],
+    "category": "Text",
+    "text": "9.1. This agreement is subject to the laws of the Russian Federation."
+  },
+  {
+    "bbox": [
+      903,
+      870,
+      1557,
+      956
+    ],
+    "category": "Text",
+    "text": "9.2. All disputes proceeding from this Agreement shall be settled by means of negotiations, under observation of pre-court dispute settlement procedure"
+  },
+  {
+    "bbox": [
+      903,
+      972,
+      1557,
+      1088
+    ],
+    "category": "Text",
+    "text": "9.3. Should the parties fail to reach an agreement within 30 (Thirty) calendar days the disputes will then be forwarded to the Arbitration (Arbitraj) court of Moscow as per the current legislation of the Russian Federation."
+  },
+  {
+    "bbox": [
+      903,
+      1167,
+      1286,
+      1200
+    ],
+    "category": "Section-header",
+    "text": "## 10. TERM OF THE AGREEMENT"
+  },
+  {
+    "bbox": [
+      903,
+      1216,
+      1557,
+      1274
+    ],
+    "category": "Text",
+    "text": "10.1. The Agreement is valid from the date indicated on the title page to December 31st, 2023."
+  },
+  {
+    "bbox": [
+      903,
+      1289,
+      1557,
+      1350
+    ],
+    "category": "Text",
+    "text": "10.2. This Agreement may be terminated prematurely in the following cases:"
+  },
+  {
+    "bbox": [
+      903,
+      1363,
+      1557,
+      1424
+    ],
+    "category": "Text",
+    "text": "- Either Party may terminate this Agreement upon at least thirty (30) calendar days written notice to the other Party."
+  },
+  {
+    "bbox": [
+      903,
+      1465,
+      1557,
+      1641
+    ],
+    "category": "Text",
+    "text": "- Either party may terminate this Agreement in the event of another Party's breach of any term of this Agreement (a) upon receipt of written notice of the breach if the breach is incapable of cure, or (b) upon the expiration of thirty (30) calendar days after receipt of notice of the breach if the breach is capable of cure and has not been cured."
+  },
+  {
+    "bbox": [
+      903,
+      1714,
+      1557,
+      1774
+    ],
+    "category": "Text",
+    "text": "- Upon decision of competent authorities as per the current legislation of the Russian Federation."
+  },
+  {
+    "bbox": [
+      903,
+      1792,
+      1557,
+      1939
+    ],
+    "category": "Text",
+    "text": "10.3. Upon early termination of this Agreement, CLIENT shall pay CONTRACTOR the cost of all actually performed and not yet paid actions, incurred expenses and cost of actions performed by third parties according to all appendices to this Agreement."
+  },
+  {
+    "bbox": [
+      903,
+      2010,
+      1557,
+      2157
+    ],
+    "category": "Text",
+    "text": "10.4. If thirty (30) days prior to the expiration of the term of this Agreement the Parties did not inform in writing about its termination, it is deemed to be extended for one year on the same terms. In accordance with this paragraph the validity of the Agreement may be consistently prolonged."
+  },
+  {
+    "bbox": [
+      56,
+      2239,
+      545,
+      2271
+    ],
+    "category": "Page-footer",
+    "text": "CONFIDENTIAL I КОНФИДЕНЦИАЛЬНО"
+  },
+  {
+    "bbox": [
+      1426,
+      2239,
+      1570,
+      2271
+    ],
+    "category": "Page-footer",
+    "text": "Page 6 of 14"
+  },
+  {
+    "bbox": [
+      44,
+      25,
+      742,
+      54
+    ],
+    "category": "Page-header",
+    "text": "DocuSign Envelope ID: D63B4208-7A19-4532-8EC9-5A99EE9E9CD5"
+  },
+  {
+    "bbox": [
+      224,
+      116,
+      879,
+      173
+    ],
+    "category": "Text",
+    "text": "установленном настоящим пунктом, Договор может продлеваться неоднократно."
+  },
+  {
+    "bbox": [
+      224,
+      221,
+      879,
+      339
+    ],
+    "category": "Text",
+    "text": "10.5. Прекращение настоящего Договора по каким бы то ни было обстоятельствам не прекращает обязательств Сторон принятых, но не исполненных ими на дату расторжения Договора."
+  },
+  {
+    "bbox": [
+      224,
+      360,
+      410,
+      388
+    ],
+    "category": "Section-header",
+    "text": "## 11. ПРОВЕРКИ"
+  },
+  {
+    "bbox": [
+      224,
+      406,
+      879,
+      551
+    ],
+    "category": "Text",
+    "text": "11.1. Каждая из Сторон обязуется немедленно уведомить другую Сторону о любой регуляторной проверке, относящейся к исполнению Договора. Каждая Сторона имеет право присутствовать при таких проверках, если возможно."
+  },
+  {
+    "bbox": [
+      224,
+      577,
+      593,
+      607
+    ],
+    "category": "Section-header",
+    "text": "## 12. КОНФИДЕНЦИАЛЬНОСТЬ"
+  },
+  {
+    "bbox": [
+      224,
+      630,
+      879,
+      920
+    ],
+    "category": "Text",
+    "text": "12.1. Каждая из Сторон признает, что в связи с исполнением обязательств по Договору, она может получить, узнать или иметь доступ к конфиденциальной информации, интеллектуальной собственности или коммерческой тайне другой Стороны либо аффилированных с ней структур или третьих лиц, по отношении к которым у этой Стороны существуют обязательства по соблюдению конфиденциальности («Конфиденциальная информация»)."
+  },
+  {
+    "bbox": [
+      224,
+      959,
+      879,
+      1134
+    ],
+    "category": "Text",
+    "text": "12.2. Стороны обязуются хранить в строгой конфиденциальности и не использовать для иных целей, кроме исполнения настоящего Договора, всю переданную друг другу в рамках Договора информацию. Конфиденциальная информация не включает в себя следующую информацию, которая:"
+  },
+  {
+    "bbox": [
+      224,
+      1197,
+      879,
+      1283
+    ],
+    "category": "Text",
+    "text": "- является достоянием общественности или стала известной широкой общественности не по вине получающей стороны;"
+  },
+  {
+    "bbox": [
+      224,
+      1306,
+      879,
+      1422
+    ],
+    "category": "Text",
+    "text": "- раскрыта получающей стороне третьей стороной, которая при этом не была получена третьей стороной прямо или косвенно от раскрывающей стороны под условием соблюдения конфиденциальности;"
+  },
+  {
+    "bbox": [
+      224,
+      1479,
+      879,
+      1538
+    ],
+    "category": "Text",
+    "text": "- которая уже была известна получающей стороне, что подтверждается письменными документами;"
+  },
+  {
+    "bbox": [
+      224,
+      1589,
+      733,
+      1619
+    ],
+    "category": "Text",
+    "text": "- которая по закону должна быть раскрыта."
+  },
+  {
+    "bbox": [
+      224,
+      1637,
+      879,
+      1783
+    ],
+    "category": "Text",
+    "text": "12.3. Обязательство по конфиденциальности, предусмотренное настоящим Пунктом, продолжает действовать в течение 5 (пяти) лет после окончания срока действия Договора или его преждевременного расторжения."
+  },
+  {
+    "bbox": [
+      224,
+      1833,
+      700,
+      1861
+    ],
+    "category": "Section-header",
+    "text": "## 13. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ"
+  },
+  {
+    "bbox": [
+      224,
+      1908,
+      879,
+      2025
+    ],
+    "category": "Text",
+    "text": "13.1. Все Приложения и Дополнения к настоящему Договору будут иметь юридическую силу, если они подписаны надлежаще уполномоченными представителями сторон."
+  },
+  {
+    "bbox": [
+      224,
+      2040,
+      879,
+      2157
+    ],
+    "category": "Text",
+    "text": "13.2. Настоящий Договор составлен в двух экземплярах на русском и английском языках, оба экземпляра имеют одинаковую силу (один экземпляр для каждой Стороны)."
+  },
+  {
+    "bbox": [
+      903,
+      221,
+      1557,
+      336
+    ],
+    "category": "Text",
+    "text": "10.5. Termination of this Agreement shall not anyhow terminate obligations of the Parties which have been already undertaken and not executed to the termination date."
+  },
+  {
+    "bbox": [
+      903,
+      360,
+      1119,
+      388
+    ],
+    "category": "Section-header",
+    "text": "## 11. INSPECTIONS"
+  },
+  {
+    "bbox": [
+      903,
+      406,
+      1557,
+      523
+    ],
+    "category": "Text",
+    "text": "11.1. Either Party shall promptly notify the other Party of any applicable regulatory inspection relating to the Agreement. Either Party shall have the right to be present at any such inspection, if possible."
+  },
+  {
+    "bbox": [
+      903,
+      577,
+      1173,
+      607
+    ],
+    "category": "Section-header",
+    "text": "## 12. CONFIDENTIALITY"
+  },
+  {
+    "bbox": [
+      903,
+      630,
+      1557,
+      804
+    ],
+    "category": "Text",
+    "text": "12.1. Either Party acknowledges that in connection with the performance of the Agreement, it may receive, learn or have access to confidential, trade secret, or proprietary information concerning the other Party, the other Party's affiliates or third parties towards whom the other Party has an obligation of confidentiality (\"Confidential Information\")."
+  },
+  {
+    "bbox": [
+      903,
+      959,
+      1557,
+      1102
+    ],
+    "category": "Text",
+    "text": "12.2. Both Parties undertake to keep strictly confidential and not use for any purpose other than performance of the Agreement any information transmitted to each other as part of this Agreement. For purposes hereof, Confidential Information shall not include information that:"
+  },
+  {
+    "bbox": [
+      903,
+      1197,
+      1557,
+      1254
+    ],
+    "category": "Text",
+    "text": "- is or becomes generally known or available to the public through no fault of the receiving party;"
+  },
+  {
+    "bbox": [
+      903,
+      1306,
+      1557,
+      1422
+    ],
+    "category": "Text",
+    "text": "- is disclosed to the receiving party by a third party, provided such information was not obtained by such third party, directly or indirectly, from the disclosing party on a confidential basis;"
+  },
+  {
+    "bbox": [
+      903,
+      1479,
+      1557,
+      1538
+    ],
+    "category": "Text",
+    "text": "- is already known to receiving party as shown by its prior written records;"
+  },
+  {
+    "bbox": [
+      903,
+      1589,
+      1299,
+      1619
+    ],
+    "category": "Text",
+    "text": "- is required by law to be disclosed."
+  },
+  {
+    "bbox": [
+      903,
+      1637,
+      1557,
+      1724
+    ],
+    "category": "Text",
+    "text": "12.3. Confidentiality clause described herein should be enforced for 5 (five) year after expiration or termination of this Agreement."
+  },
+  {
+    "bbox": [
+      903,
+      1833,
+      1186,
+      1861
+    ],
+    "category": "Section-header",
+    "text": "## 13. FINAL PROVISIONS"
+  },
+  {
+    "bbox": [
+      903,
+      1908,
+      1557,
+      1994
+    ],
+    "category": "Text",
+    "text": "13.1. All Appendices and Addenda to this Agreement shall have legal force if signed by the authorised representatives of the Parties."
+  },
+  {
+    "bbox": [
+      903,
+      2040,
+      1557,
+      2128
+    ],
+    "category": "Text",
+    "text": "13.2. The Agreement has been drafted in two copies in the Russian and English languages, both copies being equally valid, one for either Party."
+  },
+  {
+    "bbox": [
+      55,
+      2239,
+      545,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "CONFIDENTIAL I КОНФИДЕНЦИАЛЬНО"
+  },
+  {
+    "bbox": [
+      1426,
+      2239,
+      1570,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Page 7 of 14"
+  }
+]

@@ -1,0 +1,171 @@
+{
+  "timestamp": "2025-09-14T13:56:23.397532",
+  "documents": [
+    {
+      "filename": "199.json",
+      "document_exact_match": false,
+      "json_valid": true,
+      "schema_consistent": true,
+      "missing_keys": [],
+      "extra_keys": []
+    },
+    {
+      "filename": "355С.json",
+      "document_exact_match": false,
+      "json_valid": true,
+      "schema_consistent": true,
+      "missing_keys": [],
+      "extra_keys": []
+    },
+    {
+      "filename": "4392.json",
+      "document_exact_match": false,
+      "json_valid": true,
+      "schema_consistent": true,
+      "missing_keys": [],
+      "extra_keys": []
+    },
+    {
+      "filename": "6708.json",
+      "document_exact_match": false,
+      "json_valid": true,
+      "schema_consistent": true,
+      "missing_keys": [],
+      "extra_keys": []
+    },
+    {
+      "filename": "8A16.json",
+      "document_exact_match": false,
+      "json_valid": true,
+      "schema_consistent": true,
+      "missing_keys": [],
+      "extra_keys": []
+    },
+    {
+      "filename": "C781.json",
+      "document_exact_match": false,
+      "json_valid": true,
+      "schema_consistent": true,
+      "missing_keys": [],
+      "extra_keys": []
+    }
+  ],
+  "aggregate_metrics": {
+    "avg_cer": 0.5371994284138895,
+    "avg_wer": 0.5797619047619048,
+    "avg_normalized_levenshtein": 0.4758182082562385,
+    "avg_field_accuracy": 0.4375
+  },
+  "field_level_metrics": {
+    "сумма_контракта": {
+      "avg_cer": 0.5,
+      "std_cer": 0.5,
+      "avg_wer": 0.5,
+      "std_wer": 0.5,
+      "avg_normalized_levenshtein": 0.5,
+      "std_normalized_levenshtein": 0.5,
+      "avg_exact_match": 0.5,
+      "std_exact_match": 0.5,
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1_score": 0.4
+    },
+    "номер_контракта": {
+      "avg_cer": 0.0,
+      "std_cer": 0.0,
+      "avg_wer": 0.0,
+      "std_wer": 0.0,
+      "avg_normalized_levenshtein": 0.0,
+      "std_normalized_levenshtein": 0.0,
+      "avg_exact_match": 1.0,
+      "std_exact_match": 0.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    "валюта_платежа": {
+      "avg_cer": 0.6666666666666666,
+      "std_cer": 0.4714045207910317,
+      "avg_wer": 0.6666666666666666,
+      "std_wer": 0.4714045207910317,
+      "avg_normalized_levenshtein": 0.6666666666666666,
+      "std_normalized_levenshtein": 0.4714045207910317,
+      "avg_exact_match": 0.3333333333333333,
+      "std_exact_match": 0.4714045207910317,
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1_score": 0.5
+    },
+    "дата_окончания_контракта": {
+      "avg_cer": 0.8333333333333334,
+      "std_cer": 0.37267799624996495,
+      "avg_wer": 0.8333333333333334,
+      "std_wer": 0.37267799624996495,
+      "avg_normalized_levenshtein": 0.8333333333333334,
+      "std_normalized_levenshtein": 0.37267799624996495,
+      "avg_exact_match": 0.16666666666666666,
+      "std_exact_match": 0.372677996249965,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "наименование_контрагента": {
+      "avg_cer": 0.9381751374560433,
+      "std_cer": 1.145084322786139,
+      "avg_wer": 1.1380952380952383,
+      "std_wer": 1.0856725138163146,
+      "avg_normalized_levenshtein": 0.47276640183586105,
+      "std_normalized_levenshtein": 0.39646633887497373,
+      "avg_exact_match": 0.0,
+      "std_exact_match": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "валюта_контракта": {
+      "avg_cer": 0.6666666666666666,
+      "std_cer": 0.4714045207910317,
+      "avg_wer": 0.6666666666666666,
+      "std_wer": 0.4714045207910317,
+      "avg_normalized_levenshtein": 0.6666666666666666,
+      "std_normalized_levenshtein": 0.4714045207910317,
+      "avg_exact_match": 0.3333333333333333,
+      "std_exact_match": 0.4714045207910317,
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1_score": 0.5
+    },
+    "страна_контрагента": {
+      "avg_cer": 0.6594202898550724,
+      "std_cer": 0.46653387254550355,
+      "avg_wer": 0.6666666666666666,
+      "std_wer": 0.4714045207910317,
+      "avg_normalized_levenshtein": 0.6337792642140468,
+      "std_normalized_levenshtein": 0.4510826299589073,
+      "avg_exact_match": 0.3333333333333333,
+      "std_exact_match": 0.4714045207910317,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "дата_контракта": {
+      "avg_cer": 0.03333333333333333,
+      "std_cer": 0.07453559924999299,
+      "avg_wer": 0.16666666666666666,
+      "std_wer": 0.37267799624996495,
+      "avg_normalized_levenshtein": 0.03333333333333333,
+      "std_normalized_levenshtein": 0.07453559924999299,
+      "avg_exact_match": 0.8333333333333334,
+      "std_exact_match": 0.37267799624996495,
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "f1_score": 0.8333333333333334
+    }
+  },
+  "summary": {
+    "total_documents": 6,
+    "json_validity_rate": 1.0,
+    "schema_consistency_rate": 1.0,
+    "exact_match_rate": 0.0
+  }
+}
