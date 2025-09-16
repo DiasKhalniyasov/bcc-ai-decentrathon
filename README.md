@@ -1,5 +1,6 @@
 # bcc-ai-decentrathon
 
+По всем вопросам пишите в тг @dias_kh
 Основным инструментом для работы с OCR является [DotsOCR](https://github.com/dots-ocr/dots-ocr).
 
 ## Установка зависимостей
